@@ -67,11 +67,12 @@ def create_exclusion_dict(root_paths, print_output=False, json_output_path=None)
 
 
 if __name__ == '__main__':
-    path_out = Path("/Users/tiago/Library/CloudStorage/OneDrive-Radboudumc/procancer-i copy")
+    #path_in = Path("/Users/tiago/Library/CloudStorage/OneDrive-Radboudumc/procancer-i copy")
+    path_in = Path("/Users/tiago/Library/CloudStorage/OneDrive-Radboudumc/DWI_IQA_Preview")
 
     # Call the function with desired options
     exclude_dict = create_exclusion_dict(
-        root_paths=path_out,
+        root_paths=path_in,
         print_output=False,  # Set to True if you want to print the output
-        json_output_path='output.json'  # Provide a path if you want to save to JSON
+        json_output_path='lq_dwi_from_mactags.json'  # Provide a path if you want to save to JSON
     )
