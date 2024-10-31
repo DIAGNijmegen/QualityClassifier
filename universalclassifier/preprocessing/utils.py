@@ -1,7 +1,6 @@
 from pathlib import Path
 from nnunet.experiment_planning.utils import create_lists_from_splitted_dataset_folder
 from batchgenerators.utilities.file_and_folder_operations import maybe_mkdir_p
-
 import SimpleITK as sitk
 import numpy as np
 import json
