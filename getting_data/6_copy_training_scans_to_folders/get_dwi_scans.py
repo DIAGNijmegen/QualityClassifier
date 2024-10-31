@@ -116,3 +116,5 @@ if __name__ == '__main__':
         handler.flush()
         handler.close()
         logging.root.removeHandler(handler)
+
+    # TODO: Test duplicates and lengths after the copies

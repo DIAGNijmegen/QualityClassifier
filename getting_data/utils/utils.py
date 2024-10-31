@@ -1,7 +1,7 @@
 import json
 
 
-def load_seed(file_path='../../getting_data/utils/seed/seed.txt'):
+def load_seed(file_path='/Users/tiago/Documents/GitHub/QualityClassifier/getting_data/utils/seed/seed.txt'):
     with open(file_path, 'r') as f:
         seed = int(f.read())
     return seed
