@@ -1,4 +1,5 @@
 import json
+from pathlib import Path
 
 
 def load_seed(file_path='/Users/tiago/Documents/GitHub/QualityClassifier/getting_data/utils/seed/seed.txt'):
@@ -17,3 +18,18 @@ def load_json_to_dict(file_path):
     with open(file_path, 'r') as file:
         data_dict = json.load(file)
     return data_dict
+
+
+def delete_dot_underscore_files(folder_path):
+    print('WARNING: THIS FUNTION DELETES ALL ._ FILES. REMOVE "pass" TO USE IT')
+    pass
+    folder = Path(folder_path)
+    # Search for all ._ files in the folder and its subdirectories
+    dot_underscore_files = folder.rglob('._*')
+
+    for file in dot_underscore_files:
+        try:
+            file.unlink()  # Delete the file
+            print(f"Deleted: {file}")
+        except Exception as e:
+            print(f"Failed to delete {file}: {e}")
