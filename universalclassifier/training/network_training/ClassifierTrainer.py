@@ -146,8 +146,7 @@ class ClassifierTrainer(NetworkTrainer):
                 self.data_aug_params[
                     'image_size_for_spatialtransform'],
                 self.data_aug_params,
-                pin_memory=self.pin_memory,
-                use_nondetMultiThreadedAugmenter=False
+                pin_memory=self.pin_memory
             )
             self.print_to_log_file("TRAINING KEYS:\n %s" % (str(self.dataset_tr.keys())),
                                    also_print_to_console=False)
