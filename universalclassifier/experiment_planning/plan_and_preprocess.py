@@ -45,6 +45,7 @@ def main(args):
     task_name = convert_id_to_task_name(task_id)
     raw_folder = join(nnUNet_raw_data, task_name)
 
+    utils.add_segmentations_to_task_folder(raw_folder)
     # Verify dataset integrity if requested
     if args.verify_dataset_integrity:
         print("Verifying dataset integrity...", flush=True)
@@ -67,9 +68,9 @@ def main(args):
     maybe_mkdir_p(preprocessing_output_dir_task)
 
     # Dataset Analysis
-    print("Analyzing data...", flush=True)
-    dataset_analyzer = ClassificationDatasetAnalyzer(cropped_out_dir, overwrite=False, num_processes=args.tf)
-    dataset_analyzer.analyze_dataset(collect_intensityproperties=True)  # Assume MRI intensity properties needed
+    #print("Analyzing data...", flush=True)
+    #dataset_analyzer = ClassificationDatasetAnalyzer(cropped_out_dir, overwrite=False, num_processes=args.tf)
+    #dataset_analyzer.analyze_dataset(collect_intensityproperties=True)  # Assume MRI intensity properties needed
 
     # Copy necessary files
     shutil_sol.copyfile(join(cropped_out_dir, "dataset_properties.pkl"), preprocessing_output_dir_task)

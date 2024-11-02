@@ -46,7 +46,7 @@ if __name__ == '__main__':
     print(f"Found {len(all_images)} images (combined from LQ and HQ) for processing.")
 
     # Set seed and shuffle
-    seed = load_seed()
+    seed = 1053160131
     print(f"Using seed {seed} for shuffling images.")
     random.seed(seed)
     random.shuffle(all_images)
@@ -58,7 +58,8 @@ if __name__ == '__main__':
         new_name = f"{task_name}_{idx:04d}_0000.nii.gz"
         output_path = images_tr_path / new_name
         # Convert from .mha to .nii.gz
-
+        correspondence[img_path.name] = new_name
+        continue
         try:
             image = sitk.ReadImage(str(img_path))
             sitk.WriteImage(image, str(output_path))
@@ -70,7 +71,7 @@ if __name__ == '__main__':
         correspondence[img_path.name] = new_name
 
     # Save correspondence.json
-    correspondence_path = task_folder_path / 'correspondence.json'
+    correspondence_path = task_folder_path / 'correspondence2.json'
     with open(correspondence_path, 'w') as f:
         json.dump(correspondence, f, indent=4)
     print("Saved correspondence.json with original and new file names.")
@@ -101,7 +102,7 @@ if __name__ == '__main__':
     # Populate the training list in dataset.json
     print("Populating training list in dataset.json...")
     for idx, (img_path, quality) in enumerate(all_images, start=1):
-        img_name = f"{task_name}_{idx:04d}_0000.nii.gz"
+        img_name = f"{task_name}_{idx:04d}.nii.gz"
         dataset["training"].append({
             "image": f"./imagesTr/{img_name}",
             "Quality": quality
@@ -109,7 +110,7 @@ if __name__ == '__main__':
     print(f"Added {len(dataset['training'])} entries to the training list in dataset.json.")
 
     # Save dataset.json
-    dataset_path = task_folder_path / 'dataset.json'
+    dataset_path = task_folder_path / 'dataset2.json'
     with open(dataset_path, 'w') as f:
         json.dump(dataset, f, indent=4)
     print("Saved dataset.json with dataset structure and training images.")

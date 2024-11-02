@@ -1,8 +1,9 @@
 import numpy as np
 
+
 def central_pad_data_or_seg(np_image, target_size, outside_val=0):
     """
-    Centrally pads a 4D numpy array (channels, x, y, z) to the target size.
+    Centrally crops or pads a 4D numpy array (channels, x, y, z) to the target size.
 
     Args:
         np_image (numpy.ndarray): Image or segmentation data of shape (c, x, y, z).
@@ -10,27 +11,44 @@ def central_pad_data_or_seg(np_image, target_size, outside_val=0):
         outside_val (int or float, optional): Value to pad with. Defaults to 0.
 
     Returns:
-        numpy.ndarray: Padded image or segmentation data of shape (c, target_x, target_y, target_z).
+        numpy.ndarray: Padded or cropped image or segmentation data of shape (c, target_x, target_y, target_z).
     """
     target_size = np.asarray([np_image.shape[0]] + list(target_size), dtype=int)
+    assert len(np_image.shape) == 4, "data must be (c, x, y, z)"
 
-    assert len(np_image.shape) == 4, "Input must be a 4D array (c, x, y, z)."
-    assert all([s1 <= s2 for s1, s2 in zip(np_image.shape, target_size)]), "Only padding is supported, no cropping."
+    # Step 1: Pre-cropping to match target_size for dimensions that are too large
+    cropping_slices = []
+    for dim, (current_size, target_dim) in enumerate(zip(np_image.shape, target_size)):
+        if dim == 0:  # Channel dimension, no cropping or padding
+            cropping_slices.append(slice(None))
+        elif current_size > target_dim:
+            # Center-crop the dimension to fit target_size
+            start = (current_size - target_dim) // 2
+            end = start + target_dim
+            cropping_slices.append(slice(start, end))
+        else:
+            # No cropping needed
+            cropping_slices.append(slice(None))
 
-    output_image = np.full(target_size, outside_val, np_image.dtype)
+    # Apply cropping
+    np_image = np_image[tuple(cropping_slices)]
 
+    # Step 2: Initialize output image with padding value for final padding
+    output_image = np.full(target_size, outside_val, dtype=np_image.dtype)
+
+    # Step 3: Padding
     offsets = []
-    for i, sh in enumerate(target_size):
-        if i == 0:
-            # Keep all channels
+    for dim, (current_size, target_dim) in enumerate(zip(np_image.shape, target_size)):
+        if dim == 0:  # Channel dimension
             offsets.append(slice(None))
         else:
-            # Compute offset to center the image
-            start = (sh // 2) - (np_image.shape[i] // 2)
-            offset = slice(start, start + np_image.shape[i])
-            offsets.append(offset)
+            # Calculate padding offset
+            pad_before = max((target_dim - current_size) // 2, 0)
+            offsets.append(slice(pad_before, pad_before + current_size))
 
+    # Fill the output image with the cropped and padded data
     output_image[tuple(offsets)] = np_image
+
     return output_image
 
 

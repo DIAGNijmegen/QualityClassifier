@@ -4,8 +4,8 @@ from universalclassifier.experiment_planning import plan_and_preprocess
 def parse_args():
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("-t", "--task_id", nargs="+",
-                        help="List of integers belonging to the task ids you wish to run"
+    parser.add_argument("-t", "--task_id", type=int, default=1,
+                        help="Integer belonging to the task ids you wish to run"
                              " experiment planning and preprocessing for. Each of these "
                              "ids must, have a matching folder 'TaskXXX_' in the raw "
                              "data folder")

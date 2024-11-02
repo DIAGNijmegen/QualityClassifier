@@ -66,13 +66,6 @@ def restore_model(pkl_file, checkpoint=None, train=False, fp16=None):
     #assert issubclass(tr, nnUNetTrainer), "The network trainer was found but is not a subclass of nnUNetTrainer. " \
     #                                      "Please make it so!"
 
-    # this is now deprecated
-    """if len(init) == 7:
-        print("warning: this model seems to have been saved with a previous version of nnUNet. Attempting to load it "
-              "anyways. Expect the unexpected.")
-        print("manually editing init args...")
-        init = [init[i] for i in range(len(init)) if i != 2]"""
-
     # ToDo Fabian make saves use kwargs, please...
 
     trainer = tr(*init)
@@ -130,8 +123,8 @@ def load_model_and_checkpoint_files(folder, folds=None, mixed_precision=None, ch
     return trainer, all_params
 
 
-if __name__ == "__main__":
+'''if __name__ == "__main__":
     pkl = "/home/fabian/PhD/results/nnUNetV2/nnUNetV2_3D_fullres/Task004_Hippocampus/fold0/model_best.model.pkl"
     checkpoint = pkl[:-4]
     train = False
-    trainer = restore_model(pkl, checkpoint, train)
+    trainer = restore_model(pkl, checkpoint, train)'''
