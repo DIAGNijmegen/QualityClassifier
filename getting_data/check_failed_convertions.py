@@ -54,6 +54,6 @@ def find_missing_files_with_hospital_and_name(task_folder, lq_file, hq_file):
 # Example usage
 find_missing_files_with_hospital_and_name(
     task_folder='/Volumes/pelvis/projects/tiago/DWI_IQA/data/raw/nnUnet_raw_data/Task001_ProstateQualityDWI',
-    hq_file='../getting_data/5_get_hq_dwi_lists/hq_dwi_final.json',
+    hq_file='../getting_data/5_get_hq_dwi_lists/hq_dwi_final_50_50.json',
     lq_file='../getting_data/4_get_lq_dwi_lists/lq_dwi_final.json'
 )

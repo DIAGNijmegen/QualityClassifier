@@ -26,7 +26,7 @@ if __name__ == '__main__':
     # Load the list of DWI studies
     try:
         lq_dwi_list = load_json_to_dict(Path('../../getting_data/4_get_lq_dwi_lists/lq_dwi_final.json'))
-        hq_dwi_list = load_json_to_dict(Path('../../getting_data/5_get_hq_dwi_lists/hq_dwi_final.json'))
+        hq_dwi_list = load_json_to_dict(Path('../../getting_data/5_get_hq_dwi_lists/hq_dwi_final_50_50.json'))
         logging.info("Loaded DWI study list successfully.")
     except FileNotFoundError:
         logging.error("Error: DWI list JSON file not found.")

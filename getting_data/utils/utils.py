@@ -3,7 +3,7 @@ from pathlib import Path
 import os
 import stat
 
-def load_seed(file_path='/seed/seed.txt'):
+def load_seed(file_path='/Volumes/pelvis/projects/tiago/DWI_IQA/QualityClassifier/getting_data/utils/seed/seed.txt'):
     with open(file_path, 'r') as f:
         seed = int(f.read())
     return seed

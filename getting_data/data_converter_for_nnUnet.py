@@ -14,7 +14,7 @@ if __name__ == '__main__':
 
     # Check if LQ and HQ folders exist and are not empty
     lq_path = raw_data_path / 'LQ'
-    hq_path = raw_data_path / 'HQ2'
+    hq_path = raw_data_path / 'HQ'
     print("Checking if LQ and HQ folders exist and are not empty...")
     if not lq_path.exists() or not hq_path.exists():
         print("Error: LQ and/or HQ folders do not exist.")
@@ -46,7 +46,7 @@ if __name__ == '__main__':
     print(f"Found {len(all_images)} images (combined from LQ and HQ) for processing.")
 
     # Set seed and shuffle
-    seed = 1053160131
+    seed = load_seed()
     print(f"Using seed {seed} for shuffling images.")
     random.seed(seed)
     random.shuffle(all_images)
@@ -58,8 +58,6 @@ if __name__ == '__main__':
         new_name = f"{task_name}_{idx:04d}_0000.nii.gz"
         output_path = images_tr_path / new_name
         # Convert from .mha to .nii.gz
-        correspondence[img_path.name] = new_name
-        continue
         try:
             image = sitk.ReadImage(str(img_path))
             sitk.WriteImage(image, str(output_path))
@@ -71,7 +69,7 @@ if __name__ == '__main__':
         correspondence[img_path.name] = new_name
 
     # Save correspondence.json
-    correspondence_path = task_folder_path / 'correspondence2.json'
+    correspondence_path = task_folder_path / 'correspondence.json'
     with open(correspondence_path, 'w') as f:
         json.dump(correspondence, f, indent=4)
     print("Saved correspondence.json with original and new file names.")
@@ -110,7 +108,7 @@ if __name__ == '__main__':
     print(f"Added {len(dataset['training'])} entries to the training list in dataset.json.")
 
     # Save dataset.json
-    dataset_path = task_folder_path / 'dataset2.json'
+    dataset_path = task_folder_path / 'dataset.json'
     with open(dataset_path, 'w') as f:
         json.dump(dataset, f, indent=4)
     print("Saved dataset.json with dataset structure and training images.")

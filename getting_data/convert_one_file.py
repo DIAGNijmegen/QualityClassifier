@@ -24,9 +24,9 @@ def convert_to_prostate_quality_format(input_file, output_folder, sequence_numbe
 
 # Example usage
 convert_to_prostate_quality_format(
-    input_file='/Volumes/pelvis/data/prostate-MRI/rumc/images-reconverted/17789/17789_220213603197151137466916258156265227048_hbv.mha',
+    input_file='/Volumes/pelvis/data/prostate-MRI/rumc/images-reconverted/17687/17687_7809530920298551006434572382717573596_hbv.mha',
     # Path to the missing file
     output_folder='/Volumes/pelvis/projects/tiago/DWI_IQA/data/raw/nnUnet_raw_data/Task001_ProstateQualityDWI/imagesTr',
     # Path to the output folder where images are stored
-    sequence_number=764  # Sequence number for the missing file
+    sequence_number=220  # Sequence number for the missing file
 )
