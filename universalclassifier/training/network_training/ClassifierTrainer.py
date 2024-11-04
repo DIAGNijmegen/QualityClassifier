@@ -369,6 +369,7 @@ class ClassifierTrainer(NetworkTrainer):
         data = maybe_to_torch(data)
         target = maybe_to_torch(target)
 
+
         if torch.cuda.is_available():
             data = to_cuda(data)
             target = to_cuda(target)

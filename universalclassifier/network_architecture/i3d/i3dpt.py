@@ -202,7 +202,7 @@ if __name__ == "__main__":
 
 class I3D(torch.nn.Module):
     def __init__(self,
-                 input_channels=1,
+                 input_channels,
                  nr_outputs=None,
                  modality='rgb',
                  dropout_prob=0,
@@ -230,7 +230,7 @@ class I3D(torch.nn.Module):
             first_layer_init_in_channels = input_channels
         conv3d_1a_7x7 = Unit3Dpy(
             out_channels=64,
-            in_channels=1,
+            in_channels=first_layer_init_in_channels,
             kernel_size=(7, 7, 7),
             stride=(2, 2, 2),
             padding='SAME')

@@ -22,7 +22,7 @@ class ClassificationExperimentPlanner3D(ExperimentPlanner3D_v21):
         self.max_shape_limit = [240, 240, 240]  # hard coded for now
         self.minimum_batch_size = 2  # Works for I3dr model with 240^3 img size
         self.fixed_spacing = [3, .5, .5]  # Desired spacing in mm
-        self.fixed_size = [20, 128, 128]  # Desired image size in voxels
+        self.fixed_size = [20, 300, 300]  # Desired image size in voxels
 
     def get_properties_for_stage(self, current_spacing, image_size):
         """

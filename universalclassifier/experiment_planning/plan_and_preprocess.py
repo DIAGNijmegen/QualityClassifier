@@ -68,9 +68,9 @@ def main(args):
     maybe_mkdir_p(preprocessing_output_dir_task)
 
     # Dataset Analysis
-    #print("Analyzing data...", flush=True)
-    #dataset_analyzer = ClassificationDatasetAnalyzer(cropped_out_dir, overwrite=False, num_processes=args.tf)
-    #dataset_analyzer.analyze_dataset(collect_intensityproperties=True)  # Assume MRI intensity properties needed
+    print("Analyzing data...", flush=True)
+    dataset_analyzer = ClassificationDatasetAnalyzer(cropped_out_dir, overwrite=False, num_processes=args.tf)
+    dataset_analyzer.analyze_dataset(collect_intensityproperties=True)  # Assume MRI intensity properties needed
 
     # Copy necessary files
     shutil_sol.copyfile(join(cropped_out_dir, "dataset_properties.pkl"), preprocessing_output_dir_task)

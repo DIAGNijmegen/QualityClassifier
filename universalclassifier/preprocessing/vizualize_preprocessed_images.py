@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Path to one of your preprocessed/cropped files
-file_path = "/Volumes/pelvis/projects/tiago/DWI_IQA/data/preprocessed/Task001_ProstateQualityDWI/universal_classifier_plans_v1.0_stage0/ProstateQualityDWI_0084.npz"
+file_path = "/Volumes/pelvis/projects/tiago/DWI_IQA/data/preprocessed/Task001_ProstateQualityDWI/universal_classifier_plans_v1.0_stage0/ProstateQualityDWI_0002.npz"
 
 # Load the .npz file
 with np.load(file_path) as data:

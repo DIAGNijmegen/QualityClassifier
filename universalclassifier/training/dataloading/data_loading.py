@@ -27,7 +27,7 @@ class DataLoader3D(SlimDataLoaderBase):
 
         target = self._data[k]['target']
 
-        num_color_channels = case_all_data.shape[0] - 1
+        num_color_channels = case_all_data.shape[0] #case_all_data.shape[0] - 1
         data_shape = (self.batch_size, num_color_channels, *self.image_size)
         seg_shape = (self.batch_size, 1, *self.image_size)
         target_shapes = [(self.batch_size) for _ in range(len(target))]
@@ -56,7 +56,7 @@ class DataLoader3D(SlimDataLoaderBase):
                 case_all_data = np.load(self._data[i]['data_file'])['data']
             #print(f"Loaded data: {self._data[i]['data_file'][:-4]}") # Debugging purposes
 
-            data[j] = case_all_data[:-1]
+            data[j] = case_all_data[:2]
             seg[j, 0] = case_all_data[-1:]
             for k in range(len(self._data[i]['target'])):
                 target[k][j] = self._data[i]['target'][k]
