@@ -48,7 +48,7 @@ if __name__ == '__main__':
     # Define mount points and paths
     mountpoint = Path('/Volumes')
     prostate_archive = mountpoint / 'pelvis/data/prostate-MRI'
-    val_path = mountpoint / 'pelvis/projects/tiago/DWI_IQA/validation'
+    val_path = mountpoint / 'pelvis/projects/tiago/DWI_IQA/validation_procanceri_100'
 
     # Ensure output paths exist
     val_path.mkdir(parents=True, exist_ok=True)

@@ -50,7 +50,7 @@ def count_patients(proci_list, prostate_archive):
 if __name__ == '__main__':
     # Load the list of studies
     try:
-        proci_list = load_json_to_dict(Path('../../getting_data/1_get_procanceri_val_set/procanceri_val_set.json'))
+        proci_list = load_json_to_dict(Path('../../getting_data/1_get_procanceri_val_set/procanceri_val_set_100.json'))
         logging.info("Loaded study list successfully.")
     except FileNotFoundError:
         logging.error("Error: list JSON file not found.")

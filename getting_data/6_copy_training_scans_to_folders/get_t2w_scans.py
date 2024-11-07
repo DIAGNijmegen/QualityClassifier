@@ -5,7 +5,7 @@ import shutil
 import sys
 
 # Setup logging with both file and console handlers
-log_file = 'copy_dwi_scans_log.txt'
+log_file = 'copy_t2w_scans_log.txt'
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # File handler for logging to a file
@@ -23,38 +23,38 @@ logging.getLogger().addHandler(file_handler)
 logging.getLogger().addHandler(console_handler)
 
 if __name__ == '__main__':
-    # Load the list of DWI studies
+    # Load the list of t2w studies
     try:
-        lq_dwi_list = load_json_to_dict(Path('../../getting_data/4_get_lq_dwi_lists/lq_dwi_final.json'))
-        hq_dwi_list = load_json_to_dict(Path('../../getting_data/5_get_hq_dwi_lists/hq_dwi_final_50_50.json'))
-        logging.info("Loaded DWI study list successfully.")
+        lq_t2w_list = load_json_to_dict(Path('../../getting_data/4.2_get_lq_t2w_lists/lq_t2w_final.json'))
+        hq_t2w_list = load_json_to_dict(Path('../../getting_data/5.2_get_hq_t2w_lists/hq_t2w_final_50_50.json'))
+        logging.info("Loaded t2w study list successfully.")
     except FileNotFoundError:
-        logging.error("Error: DWI list JSON file not found.")
+        logging.error("Error: t2w list JSON file not found.")
         sys.exit(1)
 
     # Define mount points and paths
     mountpoint = Path('/Volumes')
     prostate_archive = mountpoint / 'pelvis/data/prostate-MRI'
-    lq_out_path = mountpoint / 'pelvis/projects/tiago/DWI_IQA/data_dwi/raw/LQ'
-    hq_out_path = mountpoint / 'pelvis/projects/tiago/DWI_IQA/data_dwi/raw/HQ'
+    lq_out_path = mountpoint / 'pelvis/projects/tiago/DWI_IQA/data_t2w/raw/LQ'
+    hq_out_path = mountpoint / 'pelvis/projects/tiago/DWI_IQA/data_t2w/raw/HQ'
 
     # Ensure output paths exist
     lq_out_path.mkdir(parents=True, exist_ok=True)
     hq_out_path.mkdir(parents=True, exist_ok=True)
 
     # Define the lists and output paths
-    dwi_list = {'lq_dwi_list': (lq_dwi_list, lq_out_path),
-                'hq_dwi_list': (hq_dwi_list, hq_out_path)}
+    t2w_list = {'lq_t2w_list': (lq_t2w_list, lq_out_path),
+                'hq_t2w_list': (hq_t2w_list, hq_out_path)}
 
     # Process each list with progress tracking
-    for list_name, (dwi_studies, output_path) in dwi_list.items():
+    for list_name, (t2w_studies, output_path) in t2w_list.items():
         logging.info(f"Processing {list_name} with output path: {output_path}")
 
-        total_hospitals = len(dwi_studies)
+        total_hospitals = len(t2w_studies)
         hospital_count = 1
 
         # Process each hospital and its studies
-        for hospital, studies in dwi_studies.items():
+        for hospital, studies in t2w_studies.items():
             logging.info(f"Processing hospital {hospital_count}/{total_hospitals}: {hospital}...")
             hospital_count += 1
 
@@ -87,20 +87,20 @@ if __name__ == '__main__':
                             logging.warning(f"    Study folder '{study_path}' not found. Skipping study.")
                             continue
 
-                        # Copy the first series with 'hbv' in the name
+                        # Copy the first series with 't2w' in the name
                         copied = False
                         for series_path in study_path.iterdir():
-                            if 'hbv' in series_path.name:
+                            if 't2w' in series_path.name:
                                 logging.info(f"    Copying series '{series_path.name}' to output directory.")
                                 shutil.copy(series_path, output_path / series_path.name)
                                 copied = True
                                 break
                         if not copied:
-                            logging.warning(f"    No 'hbv' series found for study '{study}' in Procancer-i. Skipping.")
+                            logging.warning(f"    No 't2w' series found for study '{study}' in Procancer-i. Skipping.")
 
                     else:
                         patient, _ = study.split('_')
-                        series_path = patients_folder / patient / (study + '_hbv.mha')
+                        series_path = patients_folder / patient / (study + '_t2w.mha')
                         if series_path.exists():
                             logging.info(f"    Copying series '{series_path.name}' to output directory.")
                             shutil.copy(series_path, output_path / series_path.name)
