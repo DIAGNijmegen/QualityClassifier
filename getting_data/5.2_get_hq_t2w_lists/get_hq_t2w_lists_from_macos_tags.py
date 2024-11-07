@@ -57,10 +57,12 @@ if __name__ == '__main__':
                         except Exception as e:
                             print(f"Error getting tags for {file_path}: {e}")
                             continue
-                        if not tags:
-                            hq_dict[hospital_name].append(file_path.stem)
+                        if tags:
+                            for tag in tags:
+                                if tag.name == ('HQ T2W'):
+                                    hq_dict[hospital_name].append(file_path.stem)
                 else:
                     break
             print(f'HQ Len of {hospital_name}: {len(hq_dict[hospital_name])}')
 
-    save_elements_to_json(hq_dict, 'hq_t2w_procanceri_50_50.json')
+    #save_elements_to_json(hq_dict, 'hq_t2w_procanceri_50_50.json')

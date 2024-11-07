@@ -13,7 +13,7 @@ def get_study_sequence(filename):
 
 if __name__ == '__main__':
     hospital_dir = Path("/Volumes/pelvis/data/prostate-MRI/zgt/images-reconverted")
-    path_lq = Path('../4_get_lq_dwi_lists/lq_dwi_final.json')
+    path_lq = Path('../4.2_get_lq_t2w_lists/lq_t2w_final.json')
 
     lq_dwi = load_json_to_dict(path_lq)
     hq_dict = {}
@@ -45,4 +45,4 @@ if __name__ == '__main__':
                 break
     print(f'HQ Len of {hospital_name}: {len(hq_dict[hospital_name])}')
 
-    save_elements_to_json(hq_dict, 'hq_dwi_zgt_50_50.json')
+    #save_elements_to_json(hq_dict, 'hq_t2w_zgt_50_50.json')

@@ -9,7 +9,7 @@ from getting_data.utils.utils import load_json_to_dict, save_elements_to_json, l
 if __name__ == '__main__':
     #path_in = Path("/Users/tiago/Library/CloudStorage/OneDrive-Radboudumc/procancer-i copy")
     root_paths = Path("/Users/tiago/Library/CloudStorage/OneDrive-Radboudumc/DWI_IQA_Preview")
-    path_lq = Path('../4.2_get_lq_t2w_lists/lq_t2w_final.json')
+    path_lq = Path('../4_get_lq_dwi_lists/lq_dwi_final.json')
 
     lq_dwi = load_json_to_dict(path_lq)
 
@@ -36,10 +36,7 @@ if __name__ == '__main__':
 
         for hospital_dir in hospital_dirs:
             hospital_name = hospital_dir.name
-            try:
-                len_lq = len(lq_dwi[hospital_name])
-            except:
-                len_lq = 0
+            len_lq = len(lq_dwi[hospital_name])
             print(f'LQ Len of {hospital_name}: {len_lq}')
             len_hq = len_lq #* 3
             print(f'HQ Max Len of {hospital_name}: {len_hq}')
@@ -57,10 +54,12 @@ if __name__ == '__main__':
                         except Exception as e:
                             print(f"Error getting tags for {file_path}: {e}")
                             continue
-                        if not tags:
-                            hq_dict[hospital_name].append(file_path.stem)
+                        if tags:
+                            for tag in tags:
+                                if tag.name == ('HQ DWI'):
+                                    hq_dict[hospital_name].append(file_path.stem)
                 else:
                     break
             print(f'HQ Len of {hospital_name}: {len(hq_dict[hospital_name])}')
 
-    save_elements_to_json(hq_dict, 'hq_t2w_procanceri_50_50.json')
+    save_elements_to_json(hq_dict, 'hq_dwi_procanceri_50_50.json')

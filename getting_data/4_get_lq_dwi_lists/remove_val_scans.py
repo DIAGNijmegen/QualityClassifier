@@ -4,7 +4,7 @@
 from pathlib import Path
 from getting_data.utils.utils import load_json_to_dict, save_elements_to_json
 
-procanceri_val_set_path = Path('../../getting_data/1_get_procanceri_val_set/procanceri_val_set.json')
+procanceri_val_set_path = Path('../../getting_data/1_get_procanceri_val_set/procanceri_val_set_100.json')
 lq_dwi_original_path = Path('lq_dwi_from_mactags.json')
 
 
