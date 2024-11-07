@@ -1,0 +1,1665 @@
+real_mri_date,center,study_tag,patient_id,study_id,scanner_manufacturer,scanner_model_name,diffusion_high_bvalue,radiology_report,pathology_report,patient_age,PSAD_report,PSA_report,prostate_volume_report,histopath_type,lesion_PIRADS,lesion_ISUP
+2016-01-21,UMCG,MRI prostaat,M-011,11-0,Philips Medical Systems,Ingenia,2000,,,63,0.265,5.3,20.0,SysBx,4,1
+2019-03-15,UMCG,MRI prostaat,M-343,344-0,Philips Medical Systems,Ingenia,2000,,,69,0.2375,9.5,40.0,MRBx,4,2
+2015-11-17,UMCG,MRI prostaat,M-207,208-0,Philips Medical Systems,Ingenia,2000,,,58,0.1415384615384615,9.2,65.0,SysBx,1,0
+2019-03-25,UMCG,PROSTAAT DETECTIE,U-012,436-0,SIEMENS,Skyra,1400,,,62,0.2436585365853658,9.99,41.0,MRBx,5,2
+2017-06-01,UMCG,MRI prostaat,M-010,10-0,Philips Medical Systems,Ingenia,2000,,,58,0.2363636363636364,5.2,22.0,SysBx,4,1
+2018-03-27,UMCG,EXTERNE BEELDEN MRI,U-001,165-0,SIEMENS,Avanto,1500,,,67,0.1648148148148148,8.9,54.0,MRBx,3,3
+2016-10-31,UMCG,MRI prostaat,M-555,643-0,Philips Medical Systems,Ingenia,2000,,,57,0.7,49.0,70.0,SysBx+RP,5,5
+2018-09-07,UMCG,EXTERNE BEELDEN MRI,U-301,882-0,Philips Medical Systems,Achieva,1500,,,63,0.1906666666666667,2.86,15.0,MRBx,4,2
+2019-08-12,UMCG,EXTERNE BEELDEN OVERIG,U-159,740-0,Philips Medical Systems,Achieva,1400,,,78,0.1296296296296296,7.0,54.0,MRBx,"4,4","2,1"
+2016-11-14,UMCG,MAN GEN MRK,U-023,495-0,SIEMENS,Prisma,1400,,,71,0.59375,19.0,32.0,SysBx,"3,3","0,0"
+2019-01-25,UMCG,EXTERNE BEELDEN MRI,U-018,484-0,SIEMENS,Avanto,1500,,,66,0.271875,8.7,32.0,MRBx,4,2
+2019-02-01,UMCG,EXTERNE BEELDEN MRI,U-135,716-0,Philips Medical Systems,Achieva,1500,,,59,0.9347826086956522,21.5,23.0,MRBx,"4,4,4,4","2,0,3,3"
+2017-06-28,UMCG,MAN GEN MRK,U-020,488-0,SIEMENS,Prisma,1400,,,55,0.15,4.5,30.0,MRBx,3,0
+2016-09-15,UMCG,MRI prostaat,M-004,4-0,Philips Medical Systems,Ingenia,2000,,,62,0.1476190476190476,6.2,42.0,SysBx,1,0
+2017-09-07,UMCG,MRI prostaat,M-479,505-0,Philips Medical Systems,Ingenia,2000,,,68,0.05,2.9,58.0,MRBx,5,2
+2018-09-06,UMCG,PROSTAAT DETECTIE,U-090,671-0,SIEMENS,Skyra,1400,,,65,0.1935,3.87,20.0,SysBx,2,1
+2016-01-22,UMCG,MAN GEN MRK,U-009,426-0,SIEMENS,Aera,1400,,,74,0.04304635761589404,6.5,151.0,MRBx,"4,3","0,0"
+2016-07-06,UMCG,MRI prostaat,M-041,41-0,Philips Medical Systems,Ingenia,2000,,,74,0.06470588235294118,4.4,68.0,MRBx,4,0
+2019-03-26,UMCG,EXTERNE BEELDEN OVERIG,U-145,726-0,Philips Medical Systems,Achieva,1500,,,77,0.1783333333333333,10.7,60.0,MRBx,4,3
+2016-01-13,UMCG,MRI prostaat,M-330,331-0,Philips Medical Systems,Ingenia,2000,,,74,0.35,14.0,40.0,SysBx,1,0
+2017-08-21,UMCG,MAN GEN MRK,U-008,423-0,SIEMENS,Skyra,1400,,,76,0.131875,14.77,112.0,MRBx,5,2
+2018-09-27,UMCG,PROSTAAT DETECTIE,U-210,791-0,SIEMENS,Skyra,1400,,,66,0.7129761904761892,19.9633333333333,28.0,MRBx,"3,3,4","0,0,1"
+2018-09-17,UMCG,MRI prostaat,M-006,6-0,Philips Medical Systems,Ingenia,2000,,,72,0.02179487179487179,3.4,156.0,MRBx,"5,4","0,0"
+2018-11-29,UMCG,EXTERNE BEELDEN MRI,U-134,715-0,SIEMENS,Avanto,1500,,,78,0.425,34.0,80.0,MRBx,4,4
+2018-11-30,UMCG,MRI prostaat,M-046,46-0,Philips Medical Systems,Ingenia,2000,,,78,0.2155555555555555,9.7,45.0,MRBx,5,1
+2017-01-25,UMCG,MRI prostaat,M-211,212-0,Philips Medical Systems,Ingenia,2000,,,58,0.13,7.8,60.0,SysBx,1,0
+2018-02-27,UMCG,PROSTAAT DETECTIE,U-005,413-0,SIEMENS,Skyra,1400,,,63,0.1975,6.32,32.0,SysBx,2,0
+2018-05-25,UMCG,MRI prostaat,M-002,2-0,Philips Medical Systems,Ingenia,2000,,,76,0.465,9.3,20.0,MRBx,5,1
+2018-06-07,UMCG,MRI prostaat,M-481,508-0,Philips Medical Systems,Ingenia,2000,,,59,0.7575757575757576,25.0,33.0,SysBx,5,4
+2017-10-11,UMCG,MRI prostaat,M-037,37-0,Philips Medical Systems,Ingenia,2000,,,54,0.15,12.0,80.0,MRBx+RP,5,1
+2016-02-15,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,10003,251243021909800469714080661252479064608,SIEMENS,Skyra,1400,"Klinische gegevens:
+Verhoogd PSA (7,3).
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 89 cc. PSA densiteit: 0,08.
+
+Afwijking nr. 1: ter plaatse van perifere zone rechts posterieur mid
+prostaat.
+Score T2W: 2, Score DCE: -, Score DWI: 2, minimale ADC waarde 1025.
+Beeld past het best bij verdenking vrij uitgebreide fibrose (PIRADS 2).
+Afmeting van dit gebied is 10 mm in een groter gebied van 31 mm.
+
+Afwijking nr. 2: ter plaatse van anterieure transitie zone links geheel
+apicaal.
+Score T2W: 2, Score DCE: -, Score DWI: 3, minimale ADC waarde 980.
+Beeld past het best bij verdenking aanpalende BPH nodulen, deels cysteus
+en deels stromaal d.d. laaggradig carcinoom (PIRADS 2).
+De afmeting van de de laesie (gemeten op de T2W opnamen) is 13 mm.
+
+Geen aantoonbare extraprostatische uitbreiding.
+Vrij uitgebreid BPH, uitpuilend op de blaashals, compressie en deviatie
+van de urethra naar links.
+Licht vlekkig aspect van het skelet met verspreid een enkele sclerotische
+laesie, bijvoorbeeld in het os pubis rechts, vooralsnog aspecifiek.
+
+Impressie:
+Vrije uitgebreide fibrose perifere zone perifere zone rechts en nodus in
+de anterieure transitie zone links apicaal, vermoedelijk BPH (deels
+cysteuze / deels stromaal) d.d. laaggradig carcinoom.
+PIRADS 2.
+Echo geleide biopten volgen.
+
+Onderzoek beoordeeld door prof. Dr.J.O. Barentsz.","Klinische gegevens:
+**SNELDIAGNOSTIEK ***Alpe d' Huzes MRI studie**** 4M.   bereikbaarheid aanvrager->sein 2590 Verkrijgingswijze biopt Klinische gegevens 4M: Verhoogd PSA Vraagstelling Maligniteit? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I Links: Apex perifere zone posterolateraal 12p=geel Inzending II Links Midden perifere zone posterolateraal 10p=groen Inzending III Links Basis perifere zone posterolateraal 8p=zwart Inzending IV Links Apex perifere zone posterior mediaan 11p=rood Inzending V Links Midden perifere zone posterior mediaan 9p=blanco Inzending VI Links Basis centrale zone 7p=blauw Inzending VII Rechts Apex perifere zone posterolateraal 6p=geel Inzending VIII Rechts Midden perifere zone posterolateraal 4p=groen Inzending IX Rechts Basis perifere zone posterolateraal 2p=zwart Inzending X Rechts Apex perifere zone posterior mediaan 5p=rood Inzending XI Rechts Midden perifere zone posterior mediaan 3p=blanco Inzending XII Rechts Basis centrale zone 1p=blauw  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+23-02-2016. Op formaline: Een zestal potjes met prostaatbiopten links. I: geel aangekleurd naaldbiopt met lengte van 20 mm. II: groen aangekleurd naaldbiopt met lengte 21 mm. III: zwart aangekleurd naaldbiopt met lengte van 19 mm. II-III ingesloten bij I. T.i. 1b. IV: rood aangekleurd naaldbiopt met lengte van 21 mm. V: ongekleurd naaldbiopt met lengte van 18 mm. VI: blauw aangekleurd naaldbiopt met lengte van 18 mm. V-VI ingesloten bij IV. T.i. 1b. Een zestal potjes met prostaatbiopten rechts. VII: geel aangekleurd naaldbiopt met lengte van 12 mm. VIII: groen aangekleurd naaldbiopt met lengte van 11 mm. IX: zwart aangekleurd naaldbiopt met lengte van 17 mm. VIII-IX ingesloten bij VII. T.i. 1b. X: rood aangekleurd naaldbiopt met lengte van 20 mm. XI: twee ongekleurde naaldbiopten van 7 en 13 mm. XII: blauw aangekleurd naaldbiopt met lengte 17 mm. XI-XII ingesloten bij X. T.i. 1b. A Maat.
+
+Microscope:
+23 / 02 / 16. I t/m III een drietal pijpvormige prostaatweefselbiopten conform macroscopie, bestaande uit fibromusculair stroma en daarin preexsistente kliertjes, bekleed met ofwel tweelagig kubisch epitheel ofwel een enkelvoudige laag van basaalcellen. Geen atypie. IV t/m VI een drietal pijpvormige prostaatweefselbiopten conform macroscopie, bestaande uit stroma en deels atrofische klierbuisjes zoals in I t/m III. Geen atypie. VII t/m IX een drietal pijpvormige prostaatweefselbiopten conform macroscopie, bestaande uit stroma en deels atrofische, organoid gelegen klierbuizen. Geen atypie. X t/m XII een drietal pijpvormige prostaatweefselbiopten conform macroscopie, bestaande uit fibromusculair stroma en overwegend preexsistente klierbuizen zoals in I t/m IX beschreven. In het blauw geinkte biopt XII dichter bij elkaar gelegen, dus goed van elkaar te onderscheiden klierbuizen bekleed met een enkelvoudige laag van kubische cellen waarvan sommige een kern met nucleolus laten zien. Met de differentiaaldiagnostische vraagstelling atrofische klierbuizen versus atrofisch carcinoom volgt immunohistochemisch onderzoek.  VOORLOPIGE CONCLUSIE:  I t/m VI 6 prostaatbiopten links: geen maligniteit. VII t/m XII 6 prostaatbiopten rechts: in een van de 6 biopten (blauw, XII) en mogelijk atypische focus waarop immunohistochemisch onderzoek wordt verricht.  24 / 02 / 16. Immuunhistochemie: het in XII beschreven biopt bestaat uit klierbuizen de allen basaal epitheel tonen en positief zijn in de 34BE12. AMACR toont focaal aankleuring van het luminale epitheel van klierbuizen bekleed door een tweelagig epitheel.
+
+Conclusion:
+DEFINITIEF NA IMMUNOHISTOCHEMISCH ONDERZOEK, 25-02-16: I t/m VI 6 prostaatbiopten links: geen maligniteit. VII t/m XII 6 prostaatbiopten rechts: geen maligniteit, met name in XII uitgebreide atrofie (immuunhistochemisch bevestigd, geen maligniteit).
+
+Diagnosis:
+prostaat*links*biopt*geen maligniteit",60,0.08,7.3,89.0,SysBx,"2,2","0,0"
+2015-09-15,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,10365,25020465251040129316411843322759339219,SIEMENS,Skyra,1400,"Klinische gegevens:
+Verhoogd PSA. Aanwijzing voor prostaatcarcinoom?
+Wetenschap.
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 256 cc. PSA densiteit: 0,05.
+
+Afwijking nr. 1: ter plaatse van transitiezone links van apex tot basis
+prostaat.
+Score T2W: 2, Score DCE: -,Score DWI: 2.
+Beeld past het best bij atypische laesie, benigne van aspec mede gezien de
+scherpe begrenzing zien en het dikker kapsel, differentiaaldiagnostisch
+wordt gedacht aan een cysteus gedegenereerd BPH nodule / adenoom, een
+basaalcelcarcinoom is niet waarschijnlijk gezien de scherpe begrenzingen
+(PIRADS 2).
+De afmeting van de de nodus is ca 72 x 71 mm (gemeten op de T2 opnamen).
+Compressie van de gehele rechter prostaatkwab en het rectum, deviatie van
+de urethra naar rechts met ook verplaatsing van de zaadblaasjes naar
+voren, deze zijn deels gelegen tussen prostaat en blaas.
+
+Grote lymfklier pararectaal links, afmeting 8 mm (zie hiervoor IMA 5 serie
+5).
+
+Impressie:
+Grote benigne ogende afwijking uitgaande van de linker prostaatkwab, met
+massa inname (compressie van de rechter prostaatlob, urethra, rectum en
+verplaatsing van de zaadblazen), differentiaaldiagnostisch wordt gedacht
+aan een cysteus gedegenereerde BPH nodule / adenoom (PIRADS 2).
+Vergrote lymfklier pararectaal links (8 mm).
+Geen MRI geleide biopten. Echogeleide biopten te volgen.
+Onderzoek medebeoordeeld door prof. Dr. J.O Barentsz (studieverband).","Klinische gegevens:
+***Alpe d' Huzes MRI studie****  bereikbaarheid aanvrager->sein 2590 Verkrijgingswijze biopt Klinische gegevens 4M: Verhoogd PSA Vraagstelling Maligniteit? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I Links: Apex perifere zone posterolateraal 12p=geel Inzending II Links Midden perifere zone posterolateraal 10p=groen Inzending III Links Basis perifere zone posterolateraal 8p=zwart Inzending IV Links Apex perifere zone posterior mediaan 11p=rood Inzending V Links Midden perifere zone posterior mediaan 9p=blanco Inzending VI Links Basis centrale zone 7p=blauw Inzending VII Rechts Apex perifere zone posterolateraal 6p=geel Inzending VIII Rechts Midden perifere zone posterolateraal 4p=groen Inzending IX Rechts Basis perifere zone posterolateraal 2p=zwart Inzending X Rechts Apex perifere zone posterior mediaan 5p=rood Inzending XI Rechts Midden perifere zone posterior mediaan 3p=blanco Inzending XII Rechts Basis centrale zone 1p=blauw  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+17/09/2015 In formaline. I: een licht geel naaldbiopt met lengte van 0,5 cm. II: een licht groen gekleurd naaldbiopt met een lengte van 0,5 cm. III: een zwart gekleurd naaldbiopt met lengte van 0,7 cm en een flardje van 2 mm. Allen een diameter van 1 mm. Ingesloten bij I. T.i. in B. IV: twee rood gekleurde naaldbiopten met lengte van 0,7 en 0,9 cm. Tevens een flardje van 2 mm. V: 2 ongekleurde naaldbiopten met lengtes van 0,8 en 0,7 cm. VI: een blauw gekleurd naaldbiopt met lengte van 1,50 cm. Allen een diameter 1 mm en ingesloten bij IV. T.i. in B. VII: een rafelig naaldbiopt geel gekleurd met een lengte van 1,1 cm. VIII: een deels groen gekleurd naaldbiopt met lengte van 1,7 cm. IX: een zwart flardje van 2 mm. Allen een diameter van 1 mm of minder en ingesloten bij VII. T.i. in B. X: een rood rafelig gekleurd naaldbiopt met een lengte van 1,4 cm. XI: een ongekleurd naaldbiopt met lengte van 1,5 cm een flardje van 2 mm. T.i. in B. XII: een blauw gekleurd naaldbiopt met lengte van 1,4 cm. T.i. in B. Allen een diameter van 1 mm. En ingesloten bij X. T.i. in B. Vos.
+
+Microscope:
+17-09-2015. I t/m III betreffen differentieel geinkte biopten die slechts 5 mm of nog minder lang zijn en derhalve onvoldoende representatief. Bestaat vooral uit prostaatstroma zonder aanwijzingen voor maligniteit. IV t/m VI drietal biopten voornamelijk bestaande uit prostaat stroma met focaal matige chronische ontsteking. Geen maligniteit. VII t/m IX: drietal biopten waarvan het zwarte biopt slechts 2 mm en dus niet representatief, verder bestaande uit prostaatstroma zonder maligniteit. X t/m XII: drietal biopten ook hier weer prostaat stroma dominant, maar ook met klierbuizen, geringe chronische ontsteking, geen maligniteit.
+
+Conclusion:
+TRUS geleide prostaatnaaldbiopten  I t/m VI links: geen aanwijzingen voor maligniteit. Focaal chronische ontsteking. NB: de biopten I t/m III zijn relatief te kort en derhalve onvoldoende representatief. VII t/m XII: geen aanwijzingen voor maligniteit. Focaal matige chronische ontsteking. Biopt IX is relatief te kort en derhalve onvoldoende representatief.
+
+Diagnosis:
+prostaat*biopt*geen maligniteit*trial",50,0.05,12.8,256.0,SysBx,2,0
+2016-05-24,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,12081,82784469311956756107297191636919550756,SIEMENS,Skyra,1400,"Klinische gegevens:
+Verhoogd PSA (8,6).
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 58 cc. PSA densiteit: 0,16.
+
+Laag signaal afwijkingen in de perifere zone rechts meer dan links basis
+tot mid prostaat meest passend bij postinflammatoire fibrose. Geen micro
+focus van laaggradig carcinoom in dit gebied is zeer wel mogelijk (SCore
+T2:2, DWI:2, DCE:-; PIRADS 2). Geen extra prostatische uitbreiding.
+Kleine utriculusrest.
+Gering BPH in de transitie zone.
+Zowel de perifere zone als in de transitie zone geen aantoonbaar
+significant carcinoom.
+Aankleurend focus in de anterieure transitie zone in de midlijn mid
+prostaat, meest passend bij proliferatief BPH.
+Normaal aspect van de vesiculae seminales.
+Diverticulosis coli.
+Over afgebeelde deel van het kleine bekken geen bijzonderheden.
+
+Impressie:
+Geen aantoonbaar significant carcinoom.
+Vrij uitgebreide post inflammatoire veranderingen in de perifere zone
+rechts meer dan links basis tot mid prostaat; micro focus van laaggradig
+carcinoom in dit gebied goed mogelijk.
+PIRADS 2.
+Echogeleide biopten volgen.","Klinische gegevens:
+***SNELDIAGNOSTIEK*** 4M en ***Alpe d' Huzes MRI studie****  bereikbaarheid aanvrager->sein 2590 Verkrijgingswijze biopt Klinische gegevens 4M: Verhoogd PSA Vraagstelling Maligniteit? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I Links: Apex perifere zone posterolateraal 12p=geel Inzending II Links Midden perifere zone posterolateraal 10p=groen Inzending III Links Basis perifere zone posterolateraal 8p=zwart Inzending IV Links Apex perifere zone posterior mediaan 11p=rood Inzending V Links Midden perifere zone posterior mediaan 9p=blanco Inzending VI Links Basis centrale zone 7p=blauw Inzending VII Rechts Apex perifere zone posterolateraal 6p=geel Inzending VIII Rechts Midden perifere zone posterolateraal 4p=groen Inzending IX Rechts Basis perifere zone posterolateraal 2p=zwart Inzending X Rechts Apex perifere zone posterior mediaan 5p=rood Inzending XI Rechts Midden perifere zone posterior mediaan 3p=blanco Inzending XII Rechts Basis centrale zone 1p=blauw  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+31-05-2016. Op formaline: Een zestal potjes prostaatbiopten links. I: geel aangekleurd naaldbiopt met een lengte van 17 mm. II: groen aangekleurd naaldbiopt met een lengte van 20 mm. III: zwart aangekleurd naaldbiopt met een lengte van 19 mm. II-III ingesloten bij I. T.i. 1b. IV: rood aangekleurd naaldbiopt met een lengte van 20 mm. V: ongekleurd naaldbiopt met een lengte van 20 mm. VI: blauw aangekleurd naaldbiopt met een lengte van 20 mm. V-VI ingesloten bij IV. T.i. 1b. Een zestal potjes met prostaatbiopten rechts. VII: geel aangekleurd naaldbiopt met een lengte van 14 mm. VIII: groen aangekleurd naaldbiopt met een lengte van 20 mm. IX: zwart aangekleurd naaldbiopt met een lengte van 21 mm. VIII-IX ingesloten bij VII. T.i. 1b. X: rood aangekleurd naaldbiopt met een lengte van 19 mm. XI: ongekleurd naaldbiopt met een lengte van 21 mm. XII: blauw aangekleurd naaldbiopt met een lengte van 16 mm. XI-XII ingesloten bij X. T.i. 1b. A Maat.
+
+Microscope:
+31-05-2016. I. Gele biopt. Conform macroscopie prostaatnaaldbiopt, geen aanwijzingen voor maligniteit. II. Groene biopt. Conform macroscopie prostaatnaaldbiopt met geringe chronische ontsteking, geen aanwijzingen voor maligniteit. III. Zwarte biopt conform macroscopie. Focaal geringe chronische ontsteking. Geen maligniteit. IV. Rode biopt. Focaal chronisch actieve ontsteking. Geen maligniteit. V. Blanco biopt. Geen maligniteit. VI. Blauwe biopt. Focaal geringe chronische ontsteking, geen maligniteit. VII. Gele biopt. Geen maligniteit. VIII. Groene biopt. Geringe chronische ontsteking. Geen maligniteit. IX. Zwarte biopt. Focaal fibrose hyalinose, geringe chronische ontsteking, geen maligniteit. X. Rode biopt. Geen maligniteit. XI. Blanco biopt. Geen maligniteit. XII. Blauwe biopt. Geen maligniteit.
+
+Conclusion:
+TRUS geleide prostaatnaaldbiopten: I t/m VI links: geen aanwijzingen voor maligniteit. VII t/m XII rechts: geen aanwijzingen voor maligniteit. In de biopten focaal geringe chronische (actieve) ontsteking.
+
+Diagnosis:
+prostaat*biopt*geen maligniteit",69,0.16,8.6,58.0,SysBx,"2,N/A","0,5"
+2015-11-03,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,12362,308671865783306009370641689525362266767,SIEMENS,Skyra,1400,"Klinische gegevens:
+PSA: 7
+Aanwijzingen voor significant carcinoom?
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 50 cc. PSA densiteit: 0,14.
+
+Afwijking nr. 1: ter plaatse van perifere zone rechts basis prostaat klein
+focus in de apex en in mindere mate geen.
+Score T2W: 2, Score DCE: -, Score DWI: 2, minimale ADC waarde 979.
+Beeld past het best bij laaggradig carcinoom d.d. prostatitis (PIRADS 2).
+De afmeting vandit gebied (gemeten op de ADC opnamen) is 16 mm rechts en
+14 mm links.
+
+Afwijking nr. 2: ter plaatse van anterieure transitiezone rechts apex
+prostaat.
+Score T2W: 2, Score DCE: -, Score DWI: 4, minimale ADC waarde 1183.
+Beeld past het best bij kleine BPH nodus d.d. laaggradig carcinoom (PIRADS
+2).
+De afmeting van de nodus (gemeten op de T2W opnamen) is 6 mm.
+
+Afwijking nr. 3: ter plaatse van laterale perifere zone links mid prostaat
+overgang naar extraprostatisch.
+Score T2W: 3, Score DCE: -, Score DWI: 3, minimale ADC waarde 808.
+Beeld past het best bij laaggradig carcinoom, op de coronale opname lijkt
+dit extraprostatish gelegen en niet klinisch relevant (PIRADS 2).
+De afmeting van dit focus (gemeten op de T2W opnamen) is 4 mm.
+
+Impressie:
+Lastig onderzoek. Beeld meest passend bij laaggradig carcinoom d.d.
+prostatitis in de perifere zone basis en apex prostaat rechts meer dan
+links en een klein focus lateraal links mid prostaat. Geen significant
+carcinoom.
+PIRADS 2.
+Echo geleide biopten volgen.
+
+Onderzoek mede beoordeeld door collega Jenniskens (in studieverband).","Klinische gegevens:
+***Alpe d' Huzes MRI studie****  bereikbaarheid aanvrager->sein 2590 Verkrijgingswijze biopt Klinische gegevens 4M: Verhoogd PSA Vraagstelling Maligniteit? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I Links: Apex perifere zone posterolateraal 12p=geel Inzending II Links Midden perifere zone posterolateraal 10p=groen Inzending III Links Basis perifere zone posterolateraal 8p=zwart Inzending IV Links Apex perifere zone posterior mediaan 11p=rood Inzending V Links Midden perifere zone posterior mediaan 9p=blanco Inzending VI Links Basis centrale zone 7p=blauw Inzending VII Rechts Apex perifere zone posterolateraal 6p=geel Inzending VIII Rechts Midden perifere zone posterolateraal 4p=groen Inzending IX Rechts Basis perifere zone posterolateraal 2p=zwart Inzending X Rechts Apex perifere zone posterior mediaan 5p=rood Inzending XI Rechts Midden perifere zone posterior mediaan 3p=blanco Inzending XII Rechts Basis centrale zone 1p=blauw  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+04/11/2015. Op unifix. I: geel naaldbiopt van maximaal 7 mm. Het fragment t.i. 1c. II: groen naaldbiopt van maximaal 1,6 cm. T.i. ingesloten bij I. III: zwart naaldbiopt van maximaal 7 mm. T.i. ingesloten bij I. IV: licht rood gekleurd naaldbiopt van maximaal 1,9 cm. T.i. 1c. V: ongekleurd naaldbiopt van maximaal 1,4 cm. T.i. ingesloten bij IV. VI: blauw naaldbiopt van maximaal 1,6 cm. T.i. ingesloten bij IV. VII: geel naaldbiopt van maximaal 5 mm. T.i. 1c. VIII: groen naaldbiopt van maximaal 1,4 cm. T.i. ingesloten bij VII. IX: zwart naaldbiopt van maximaal 1,5 cm t.i. ingesloten bij VII. X: drie rode naaldbiopten van maximaal 4 mm; 3 mm; 2 mm. T.i. 1c. XI: een ongekleurd naaldbiopt van maximaal 1,8 cm. T.i. ingesloten bij X. XII: blauw naaldbiopt maximaal 1,6 cm. T.i. ingesloten bij X. Knui.
+
+Microscope:
+I - VI: Zestal prostaat klier biopten conform macroscopie en bestaande uit fibromusculair stroma met hierin pre-existente organoid gelegen klierbuizen bekleed met tweerijig kubocilindrisch niet atypisch epitheel. Geen maligniteit. VII - IX: drietal prostaatklier biopten conform macroscopie. In het groen aangekleurde biopt (VIII) afgeronde atypische prostaatklierbuizen bekleed met enkelrijig epitheel met grote kernen en prominente nucleoli, tumorlengte 4 mm, Gleason score 3 +3 = 6, volumepercentage 30%. In de overige twee biopten pre-existente prostaatklierweefsel. X - XII: drietal prostaatklier biopten conform macroscopie. In het blauw aangekleurde biopt (XII) lokalisatie van afgeronde atypische prostaatklierbuizen passend bij adenocarcinoom, Gleason score 3 +3 = 6, tumorlengte 4 mm, volumepercentage 20%.  ES: in glas X wordt op de positie van de rooie biopsie een gebiedje van atypische klierbuisjes gezien verdacht voor patroon 3 tumor. Immuno volgt.   Revisie intern ivm 4M studie: I-VI geen maligniteit. VII-XII: adenocarcinoom GS 3+3=6, totale lengte 10 mm (10vol%).  Conclusie ongewijzigd. CAHK.
+
+Conclusion:
+Voorlopig bericht: I - VI prostaatbiopten links, zesmaal: aan deze zijde geen tumor. VII - XII prostaatbiopten rechts, zesmaal: op dit moment in 2 van de 6 biopten (respectievelijk VIII groen en XII blauw) adenocarcinoom, Gleason score 3 +3 = 6, tumorlengte circa 8 mm, circa 10 vol% betreffend. Voorts hebben wij in een derde biopt, het rode (X) verdenking op adenocarcinoom over 2 mm. Hier over volgt nog definitief bericht. Tevens volgt nog revisie door de trial patholoog, begin volgende week. AANVULLING dd 6-11-'15: mede op basis van de immuno is ook een 3e biopt (X) positief voor carcinoom (ook GS 3+3=6), met lengte van 2mm; samengevat 3/6 GS 3+3=6, 10mm gezamelijk tumor. Trialpatholoog revisie volgt. 12-11-2015. Revisie intern concordant.
+
+Diagnosis:
+prostaat*biopt*adenocarcinoom",61,0.14,7.0,50.0,SysBx,"2,2,2,N/A,N/A","0,0,2,0,0"
+2016-06-06,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,12494,58825283494228797554024562750833051799,SIEMENS,Skyra,1400,"Klinische gegevens:
+PSA 8,1.
+Aanwijzing voor significante afwijkingen?
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 76 cc. PSA densiteit: 0,11.
+
+Minimale fibrotische afwijkingen in de perifere zone beiderzijds
+posterieur, zowel mediaal als lateraal van basis tot apex prostaat.
+De perifere zone beiderzijds geen aanwijzingen voor significant carcinoom.
+Utriculus rest.
+Enig BPH in de transitie zone, discreet deviatie van de urethra naar
+rechts, nauwelijks compressie.
+Enige compressie van de centrale zone.
+In de transitie zone geen aanwijzingen voor significant carcinoom. Normaal
+aspect vesicula seminalis.
+
+Minimale herniatie van mesenteriaal vet in het lieskanaal rechts.
+Overige afgebeelde deel van het kleine bekken geen bijzonderheden.
+
+Impressie:
+Geen significant prostaatcarcinoom.
+Minimale fibrose en benigne prostaathypertrofie.
+PIRADS 2.","Klinische gegevens:
+4M ***Alpe d' Huzes MRI studie****  bereikbaarheid aanvrager->*1557 (supervisor: Van Oort) Verkrijgingswijze biopt Klinische gegevens Verhoogd PSA, 4M studie Vraagstelling Maligniteit? Eerder materiaal verzonden No Electronen microscopie No Aanleveringswijze Formaline Inzending I Links Apex perifere zone posterolateraal 12p=geel Inzending II Links Midden perifere zone posterolateraal 10p=groen Inzending III Links Basis perifere zone posterolateraal 8p=zwart Inzending IV Links Apex perifere zone posterior mediaan 11p=rood Inzending V Links Midden perifere zone posterior mediaan 9p=blanco Inzending VI Links Basis centrale zone 7p=blauw Inzending VII Rechts Apex perifere zone posterolateraal 6p=geel Inzending VIII Rechts Midden perifere zone posterolateraal 4p=groen Inzending IX Rechts Basis perifere zone posterolateraal 2p=zwart Inzending X Rechts Apex perifere zone posterior mediaan 5p=rood Inzending XI Rechts Midden perifere zone posterior mediaan 3p=blanco Inzending XII Rechts Basis centrale zone 1p=blauw  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+14-06-2016 Op formaline: I: een geel weefselstrengetje lengte 8 mm. T.i. 1b. II: een groen weefselstrengetje lengte 19 mm. Ingesloten in cassette I 1. III: een zwart weefselstrengetje lengte 17 mm. Ingesloten in cassette I 1. IV: een rood weefselstrengetje lengte 16 mm. T.i. 1b. V: een wit, beige weefselstrengetje lengte 20 mm. Ingesloten in cassette IV 1. VI: een blauw weefselstrengetje lengte 19 mm. Ingesloten in cassette IV 1. VII: een licht geel weefselstrengetje lengte 17 mm. Tevens een kleiner weefselflardje aanwezig. T.i. 1b. VIII: een groen weefselstrengetje lengte 12 mm. Tevens een kleiner weefselflardje aanwezig. Ingesloten in cassette VII 1. IX: een zwart weefselstrengetje lengte 14 mm. Ingesloten in cassette VII 1. X: een rood weefselstrengetje lengte 16 mm. Tevens een kleiner weefselflardje aanwezig. T.i. 1b. XI: een wit, beige weefselstrengetje lengte 15 mm. Ingesloten in cassette X 1. XII: een blauw weefselstrengetje lengte 14 mm. Ingesloten in cassette X 1. Alle weefselstrengen hebben diameter van 0,5 tot 1 mm. K Jan
+
+Microscope:
+14-06-2016. I. Gele biopt. Atrofie, geen maligniteit. II. Groene biopt. Atrofie, geringe chronische ontsteking, geen maligniteit. III. Zwarte biopt. Atrofie en focaal geringe chronische ontsteking, geen maligniteit. IV. Rode biopt. Geen maligniteit. V. Blanco biopt. Geen maligniteit. Atrofie. VI. Blauwe biopt. Geen maligniteit. VII. Gele biopt. Geen maligniteit. VIII. Groene biopt. Atrofie chronische ontsteking, geen maligniteit. IX. Zwarte biopt. Chronische ontsteking, atrofie, geen maligniteit. X. Rode biopt. Adenocarcinoom over een lengte van 4 mm, Gleason score 3 +3 = 6. XI. Blanco biopt. Chronische ontsteking. Geen maligniteit. XII. Blauwe biopt. Geen maligniteit.  10-08-2018 revisie Canisius-Wilhelmina Ziekenhuis:  Revisie prostaatnaaldbiopten Radboudumc T16-13399. Geheel conform elders.  I-VI. Naaldbiopten links: 6 biopten zonder maligniteit. Enige atrofie en een geringe chronisch actieve ontsteking. VII- XII. Naaldbiopten rechts: in 1 van de 6 biopten (X) acinair adenocarcinoom. Gleasonscore 3+3 = 6; tumorlengte 4 mm. Geen perineurale groei. Prognostische graderingsgroep volgens Epstein: groep 1.
+
+Conclusion:
+TRUS geleide prostaatnaaldbiopten: I t/m VI links: geen maligniteit; verspreid atrofie en geringe chronische ontsteking. VII t/m XII rechts: in een van de zes biopten (X) adenocarcinoom Gleason score 3+ 3= 6 over een lengte van 4 mm. Prognostische gradering groep volgens Epstein: 1.
+
+Diagnosis:
+prostaat*biopt*adenocarcinoom*trial*revisie extern",53,0.11,8.1,76.0,SysBx,"2,N/A","0,1"
+2016-01-04,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,15061,62571558806570877362712869213255361674,SIEMENS,Skyra,1400,"Klinische gegevens:
+Verhoog PSA 23.
+Aanwijzingen voor significant carcinoom (4M).
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 41 cc. PSA densiteit: 0,51.
+
+Afwijking nr. 1: ter plaatse van perifere zone rechts.
+Score T2W: 4, Score DCE: -, Score DWI: 4, minimale ADC waarde 780.
+Beeld past het best bij significant carcinoom (PIRADS 4), mogelijk ductale
+component, op basis van T2.
+De afmeting van de laesie (gemeten op de ADC opnamen) is: 14 x 10 mm.
+Geen aanwijzingen voor extaprostatische uitbreiding.
+
+Ook in de overige perifere zone beiderzijds posterieur afwijkingen passend
+bij prostatitis d.d. laaggradig carcinoom.
+
+Afwijking nr. 2: ter plaatse van anterieure transitiezone in de midline.
+Score T2W: 3, Score DCE: -, Score DWI: 1, minimale ADC waarde 933.
+Beeld past het best bij verdenking prominent anterofibromusculair stroma
+d.d. laaggradig carcinoom (PIRADS 3).
+De afmeting van de laesie (gemeten op de ADC opnamen) is 20 mm.
+Geen aanwijzingen voor EPE.
+
+Impressie:
+Significant carcinoom perifere zone rechts posterieur midbasaal zonder
+aanwijzingen voor EPE (PIRADS 4).
+Daarnaast prominent AFMS (anterofibromusculair stroma) d.d. laaggradig
+carcinoom (PIRADS 3).
+Eveneens links in de perifere zone uitgebreide afwijkingen (PIRADS 2).
+MRI geleide biopten volgen.","Klinische gegevens:
+**SNELDIAGNOSTIEK** ***Alpe d' Huzes MRI studie****  bereikbaarheid aanvrager->sein 2590 Verkrijgingswijze biopt Klinische gegevens 4M: Verhoogd PSA Vraagstelling Maligniteit? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I Links: Apex perifere zone posterolateraal 12p=geel Inzending II Links Midden perifere zone posterolateraal 10p=groen Inzending III Links Basis perifere zone posterolateraal 8p=zwart Inzending IV Links Apex perifere zone posterior mediaan 11p=rood Inzending V Links Midden perifere zone posterior mediaan 9p=blanco Inzending VI Links Basis centrale zone 7p=blauw Inzending VII Rechts Apex perifere zone posterolateraal 6p=geel Inzending VIII Rechts Midden perifere zone posterolateraal 4p=groen Inzending IX Rechts Basis perifere zone posterolateraal 2p=zwart Inzending X Rechts Apex perifere zone posterior mediaan 5p=rood Inzending XI Rechts Midden perifere zone posterior mediaan 3p=blanco Inzending XII Rechts Basis centrale zone 1p=blauw  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+Macroscopie: 5-1-16 Op unifix. I:  geel naaldbiopt van max 1,5 cm + wat kleinere flardjes ti 1 B II: kleurloos naaldbiopt met wat kleine groene gebiedjes van max 2cm,  ti ingesloten bij I. III: zwart naaldbiopt van max 1,8 cm, ti ingesloten bij I IV: rood naaldbiopt van max 2,2 cm Ti 1 B V: 2 kleurloze naaldbiopten van max 1,1 en 0,7 cm, ti ingesloten bij IV VI: blauw naaldbiopt van max 2,3 cm  ti ingesloten bij IV VII:geel naaldbiopt van max 1,2 cm + wat kleinere flardjes ti 1 B VIII: kleurloos naaldbiopt met wat kleine groene gebiedjes van max 1,5 cm,  ti ingesloten bij VII. IX: licht zwart aangekleurd naaldbiopt van max 2 cm, ti ingesloten bij VII. X:rood naaldbiopt van max 2 cm Ti 1 B XI:2 kleurloze naaldbiopten van max 1 en 0,6 cm, ti ingesloten bij X XII:blauw naaldbiopt van max 2,3 cm  ti ingesloten bij X. Knui
+
+Microscope:
+6 januari 2016 I: geel geinkt biopt conform macroscopie. Het biopt bevat organoid gelegen klierbuizen. Enkele buizen worden bekleed door een atroof epitheel, overwegend is er duidelijk een tweelagig epitheel herkenbaar. Er zijn verschillende corpora amylacea. II: kleurloos biopt conform macroscopie. Geen maligniteit III: zwart geinkt biopt conform macroscopie. Geen maligniteit.  IV: rood geinkt biopt conform macroscopie. Geen maligniteit. V: kleurloze biopten conform macroscopie. Geen maligniteit. VI: blauw geinkt biopt conform macroscopie. Geen maligniteit. VII: blauw geinkt biopt conform macroscopie. Geen maligniteit. VIII: groen geinkte biopt conform macroscopie. Over een lengte van 4 mm is adenocarcinoom aanwezig. de atypische klierbuizen tonen alle een lumen. Focaal zijn de klierbuizen nog gescheiden door stroma, overwegend betreft het echter een cribriform patroon. Gleason score 4+3. IX: zwart geinkt biopt conform macroscopie. Over een lengte van 13 mm adenocarcinoom aanwezig. Gleason score 4+3  zoals in VIII. X: rood geinkt biopt conform macroscopie. Geen maligniteit. XI: kleurloze biopten conform macroscopie. Geen maligniteit. XII: blauw geinkte biopten conform macroscopie. Geen maligniteit.  OUDE CONCLUSIE:  I t/m VI: prostaatbiopten links: Geen maligniteit. VIII: prostaatbiopt rechts midden perifere zone postero lateraal: adenocarcinoom over lengte van 4 mm. Gleason score 4+ 3= 7. Volume 25% van dit biopt. IX: prostaatbiopt rechts basis perifere zone postero lateraal: adenocarcinoom over een lengte van 13 mm. Gleason score 4+ 4= 8. Volume 80% van dit biopt. VII en X t/m XII: overige prostaatbiopten rechts: geen maligniteit.  07-01-15 AANVULLING. Per abuis is voor biopt IX Gleason score 4 + 4 afgegeven. Dit moet zijn Gleason score 4 + 3. onze excuses hiervoor. De conclusie is verbeterd.  24-06-16. Revisie intern in kader 4M studie: I.-VI. geen maligniteit. geringe chronische ontsteking. VII. gm. VIII. GS 4+3=7, deels intraductaal; lengte 4 mm. GG 90%. IX. GS 4+3=7, lengte 15 mm. GG 90%. X_XII. gm. CAHK.
+
+Conclusion:
+NIEUW NA VERBETERING GLEASON SCORE, 07-01-15: I t/m VI: prostaatbiopten links: Geen maligniteit. VIII: prostaatbiopt rechts midden perifere zone postero lateraal: adenocarcinoom over lengte van 4 mm. Gleason score 4+ 3= 7. Volume 25% van dit biopt. IX: prostaatbiopt rechts basis perifere zone postero lateraal: adenocarcinoom over een lengte van 13 mm. Gleason score 4+ 3= 7. Volume 80% van dit biopt. VII en X t/m XII: overige prostaatbiopten rechts: geen maligniteit.  24-06-16. Revisie intern in kader 4M studie: I.-VI. geen maligniteit. geringe chronische ontsteking. VII. geen maligniteit. VIII. GS 4+4=8, deels intraductaal; lengte 4 mm. (GG 3< 5%) IX. GS 4+4=8, lengte 15 mm. (GG3 < 5%). X-XII. geen maligniteit. CAHK.
+
+Diagnosis:
+prostaat*links*biopt*geen maligniteit",71,0.51,23.0,41.0,SysBx+MRBx,"4,3","4,0"
+2016-03-29,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,15325,78808367097527791303240582539456595182,SIEMENS,Skyra,1400,"Klinische gegevens:
+PSA 19.
+Geen eerdere biopten.
+Aanwijzing voor significant carcinoom?
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 92 cc. PSA densiteit: 0,20.
+
+Afwijking nr. 1: ter plaatse van perifere zone posterolateraal links mid
+prostaat.
+Score T2W: 4, Score DCE: +, Score DWI: 4, minimale ADC waarde 752.
+Beeld past het best bij een significant carcinoom (PIRADS 4).
+De afmeting van de laesie 13 x 10 mm (gemeten op de ADC opnamen).
+Breed contact met het kapsel posterolateraal links en directe relatie met
+de neurovasculaire bundel, geen macroscopische aanwijzingen voor ingroei
+hierin.
+Geen tekenen van ingroei in de vesiculae.
+
+Afwijking nr. 2: ter plaatse van anterieure transitie zone links mid -
+basis prostaat.
+Score T2W: 2, Score DCE: -, Score DWI: 3, minimale ADC waarde 904.
+Beeld past het best bij stromale BPH nodule (PIRADS 2 ).
+
+In de perifere zone rechts enkele lineaire vormige veranderingen met
+minimale diffusie-restrictie, meest passend bij geringe fibrose,
+laaggradig carcinoom kan niet worden uitgesloten.
+De vesiculae zijn laag van signaal op T2 , hoog van signaal T1 en minimale
+diffusie-restrictie meest waarschijnlijk op basis van bloed.
+In het minimale afgebeelde deel van het kleine bekken geen bijzonderheden.
+
+Impressie:
+Beeld verdacht voor een focaal significant carcinoom in de perifere zone
+posterolateraal links mid prostaat.
+MRI geleide biopten volgen.
+PRADS 4.","Klinische gegevens:
+**CITO** 4m ***Alpe d' Huzes MRI studie****   bereikbaarheid aanvrager->52282 Verkrijgingswijze biopt Klinische gegevens 4M studie, psa 14, psad 0,15 Vraagstelling prostaatcarcinoom? gleason score? Eerder materiaal verzonden No Electronen microscopie No Aanleveringswijze Formaline Prioriteit CITO Inzending I PZ basis li Inzending II PZ basis li  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+04/04/2016. Op formaline. I: een drietal grijs beige naaldbiopten van 0,2, 0,4 en 0,6 cm. Fragmenten worden met eosine aangekleurd. T.i. 1b II: een tweetal grijs beige naaldbiopten van 0,4 en 0,7 cm. Fragmenten worden met eosine aangekleurd. T.i. 1b Hen
+
+Microscope:
+05 / 04 / 16. Een drietal pijpvormige prostaat weefselbiopten bestaande uit fibromusculair stroma en enkele preexsistente organoid gelegen klierbuisjes. Daarnaast in twee van de biopten atypische, diffuus infiltrerende klierbuisjes, overwegend goed van elkaar te onderscheiden maar in een biopt ook fuserend. Het atypische epitheel eenlagig kubisch met licht vergrote kernen waarin prominente nucleoli. II een tweetal pijpvormige prostaatweefselbiopten, bestaande uit fibromusculair stroma en enkele preexsistente organoid gelegen klierbuizen. Daarnaast  diffuus infiltrerende klierbuizen bekleed met atypisch epitheel zoals in I beschreven, overwegend goed van elkaar te onderscheiden maar focaal ook fuserend.
+
+Conclusion:
+I PZ basis links: adenocarcinoom, Gleason score 3 +4 = 7, totale tumorlengte 8 mm, rond 65 vol%. II PZ basis links: adenocarcinoom, Gleason score 3 +4 = 7, totale tumorlengte 7 mm, rond 50 vol%.
+
+Diagnosis:
+prostaat*links*biopt*adenocarcinoom",66,0.2,19.0,92.0,SysBx+MRBx+RP,"4,3,N/A,N/A","3,0,0,1"
+2016-06-07,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,15536,44706553318742738381786831204929994985,SIEMENS,Skyra,1400,"Klinische gegevens:
+PSA 9,1.
+Aanwijzing voor significante afwijkingen?
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 57 cc. PSA densiteit: 0,16.
+
+Afwijking nr. 1: ter plaatse van perifere zone geheel lateraal links mid
+prostaat.
+Score T2W: 3, Score DCE: +, Score DWI: 4, minimale ADC waarde 587.
+Beeld past het best bij intermediair - hooggradig prostaatcarcinoom
+(PIRADS 4).
+Afmeting van de laesie is 11 x 9 mm.
+Breed contact met het kapsel (lengte 10 mm), bulging, waarschijnlijk nog
+in het intraprostatische gelegen, microscopisch extrprostatische
+uitbreiding goed mogelijk. Geen tekenen van ingroei in de neurovasculaire
+bundel.
+Geen vesicula invasie.
+
+In de overige perifere zone geen aanwijzing voor significant carcinoom.
+Gering BPH in de transitie zone.
+Verspreid in het vesiculum rechts en in mindere mate links punctate laag
+signaal afwijkingen, meest waarschijnlijk zeer kleine concrementen
+(bijvoorbeeld IMA 13 serie 5).
+
+Impressie:
+Significant prostaatcarcinoom perifere zone links lateraal mid prostaat,
+waarschijnlijk nog net intraprostatische gelegen (zie hiervoor de coronale
+serie IMA 11 serie 5).
+een tekenen van ingroei in de neurovasculaire bundel. Geen vesicula
+seminalis invasie.
+PIRADS 4.
+MRI en echo geleide biopten volgen.","Klinische gegevens:
+***CITO***  4M ***Alpe d' Huzes MRI studie****  bereikbaarheid aanvrager->*811430 Verkrijgingswijze biopt Klinische gegevens verhoogd PSA , verdachte lesie op mri Vraagstelling prostaat ca? gleason score? Prioriteit CITO Inzending I PZ links midprostaat 1x Inzending II PZ links midprostaat 1x Inzending III PZ links midprostaat 1x  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+30/06/2016. Op formaline. I: een drietal grijs beige naaldbiopten van 0,1, 0,1 en 0,2 cm. Fragmenten worden met eosine aangekleurd. T.i. 1b II: een grijs beige deels bruine naaldbiopten van 0,8 cm. Fragment wordt met eosine aangekleurd en ingesloten bij I. III: een grijs beige deels rood bruine naaldbiopt van 1,3 cm. Fragment wordt met eosine aangekleurd en ingesloten bij I. Hen
+
+Microscope:
+14-06-2016. I t/m III drietal biopt fragmenten, waarvan twee met adenocarcinoom, lengtes respectievelijk 8 en 1 mm. Gleason score 4 +4 = 8. Er is perineurale groei en tumor groeit tot aan maar niet in vetweefsel.
+
+Conclusion:
+MRI geleide prostaatnaaldbiopten I t/m III perifere zone links mid prostaat: In twee biopten adenocarcinoom Gleason score 4 +4 = 8, totale lengte 9 mm. Prognostische gradering groep volgens Epstein: 4.
+
+Diagnosis:
+prostaat*biopt*adenocarcinoom*trial
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Klinische gegevens:
+4M ***Alpe d' Huzes MRI studie****  bereikbaarheid aanvrager->*1557 (supervisor: Van Oort) Verkrijgingswijze biopt Klinische gegevens Verhoogd PSA, 4M studie Vraagstelling Maligniteit? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I Links Apex perifere zone posterolateraal 12p=geel Inzending II Links Midden perifere zone posterolateraal 10p=groen Inzending III Links Basis perifere zone posterolateraal 8p=zwart Inzending IV Links Apex perifere zone posterior mediaan 11p=rood Inzending V Links Midden perifere zone posterior mediaan 9p=blanco Inzending VI Links Basis centrale zone 7p=blauw Inzending VII Rechts Apex perifere zone posterolateraal 6p=geel Inzending VIII Rechts Midden perifere zone posterolateraal 4p=groen Inzending IX Rechts Basis perifere zone posterolateraal 2p=zwart Inzending X Rechts Apex perifere zone posterior mediaan 5p=rood Inzending XI Rechts Midden perifere zone posterior mediaan 3p=blanco Inzending XII Rechts Basis centrale zone 1p=blauw  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+14-06-2016 Op formaline: I: een geel weefselstrengetje lengte 18 mm. T.i. 1b. II: een groen weefselstrengetje lengte 8 mm. Tevens een kleiner weefselflardje aanwezig. Ingesloten in cassette I 1. III: een zwart weefselstrengetje lengte 13 mm. Ingesloten in cassette I 1. IV: een rood weefselstrengetje lengte 13 mm. Tevens een kleiner weefselflardje aanwezig. T.i. 1b. V: een wit, beige weefselstrengetje lengte 11 mm. Tevens een kleiner weefselflardje aanwezig. Ingesloten in cassette IV 1. VI: een blauw weefselstrengetje lengte 14 mm. Ingesloten in cassette IV 1. VII: twee gele weefselstrengetjes lengte 2 en 15 mm. T.i. 1b. VIII: een groen weefselstrengetje lengte 17 mm. Tevens 2-tal kleinere weefselflardjes aanwezig. Ingesloten in cassette VII 1. IX: een zwart weefselstrengetje lengte 6 mm. Tevens 2-tal kleinere weefselflardjes aanwezig. Ingesloten in cassette VII 1. X: een rood weefselstrengetje lengte 10 mm. Tevens een kleiner weefselflardje aanwezig. T.i. 1b. XI: een wit, beige weefselstrengetje lengte 17 mm. Tevens een kleiner weefselflardje aanwezig. Ingesloten in cassette X 1. XII: een blauw weefselstrengetje lengte 13 mm. Tevens een kleiner weefselflardje aanwezig. Ingesloten in cassette X 1. Alle weefselstrengen hebben diameter van 0,5 tot 1 mm. K Jan
+
+Microscope:
+14-06-2016. I. Gele biopt. Atrofie, geringe chronische ontsteking, geen maligniteit. II. Groene biopt. Atrofie, geringe chronische ontsteking, geen maligniteit. III. Zwarte biopt. Geen maligniteit. IV. Rode biopt. Verspreid atrofie en geringe chronische ontsteking, geen maligniteit. V. Atrofie, geringe chronische ontsteking, geen maligniteit. VI. Blauwe biopt. Geen maligniteit. VII. Gele biopt. Atrofie, geringe chronische ontsteking, geen maligniteit. VIII. Groene biopt. Geringe chronische ontsteking. Geen maligniteit. IX. Zwarte biopt. Geen maligniteit. X. Geringe chronische ontsteking, atrofie, geen maligniteit. XI. Blanco biopt. Geen maligniteit. Geringe chronische ontsteking. XII. Blauwe biopt. Geen maligniteit.
+
+Conclusion:
+TRUS geleide prostaatnaaldbiopten:  I t/m VI links: geen aanwijzingen voor maligniteit. VII t/m XII rechts: geen aanwijzingen voor maligniteit. Focaal in biopten atrofie en geringe chronische ontsteking.
+
+Diagnosis:
+prostaat*biopt*geen maligniteit*chronische ontsteking*atrofie*trial",68,0.16,9.1,57.0,SysBx+MRBx+RP,"4,N/A,N/A","2,1,1"
+2016-06-27,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,15597,207193630822529892233204034318828144765,SIEMENS,Skyra,1400,"Klinische gegevens:
+Mogelijk prostaat carcinoom;
+PSA: verhoogd,
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 32 cc.
+
+Afwijking nr. 1: ter plaatse van de perifere zone links, basis prostaat.
+Score T2W: 5,
+Score DCE: +,
+Score DWI: 5 , minimale ADC waarde 704.
+Beeld past het best bij significante staat carcinoom (PIRADS 5).
+De afmeting van de tumor (gemeten op de ADC opnamen) is : 15 x 7 mm.
+
+Er sprake van breedbasisch contact met het kapsel, derhalve is micro
+invasieve extra prostatische uitbreiding niet uit te sluiten. Op het
+niveau van de tumor bevindt zich de neurovasculaire bundel. De tumor
+grenst aan de vesiculae seminales links, geen aanwijzingen voor ingroei
+ter plaatse.
+
+Impressie:
+Afwijking(en) passend bij significant prostaatcarcinoom in de perifere
+zone links, basis prostaat (PIRADS 5). Gezien breedbasisch contact met
+het kapsel is micro invasieve extra prostatische uitbreiding niet uit te
+sluiten.","Klinische gegevens:
+***CITO***Zie ook T16-15291.  bereikbaarheid aanvrager->68392 -> biopteur Verkrijgingswijze biopt Klinische gegevens ****4M STUDIE PATIENT***** PSA 6,3, PSAd 0,2 Vraagstelling Prostaatca? Gleason score? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Prioriteit CITO Inzending I PZ links mid-basis prostaat Inzending II PZ links mid-basis prostaat  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+04/07/2016. Op unifix ontvangen: I: een grijswit biopt met lengte van 14 mm. XII: een grijswit biopt met lengte van 15 mm. II wordt ingesloten bij I. T.i. 1b. Alle biopt worden aangestipt met eosine. Winkel.
+
+Microscope:
+Twee pijpjes prostaatweefsel, uitgebreid, voor circa 80% doorwoekerd door tumor bestaande uit buisjes, fuserende buisjes en kleine gebiedjes met wat single cells of rijtjes. Te weinig voor een graad 5 patroon component.  03-08-16. Revisie intern in kader 4M studie. I en II. over een lengte van 8 en 10 mm adenocarcinoom met GG 3(50%), 4(40%) en 5 (10%). Wel soliede groeiwijze. CAHK.
+
+Conclusion:
+I-II prostaatbiopten perifere zone links mid - basis: in beide biopten uitgebreide lokalisatie van adenocarcinoom, Gleason score 4 +3 = 7, in 80 vol%. Revisie door de trial patholoog volgt als die weer terug is. 03-08-16. I en II: in beide biopten adenocarcinoom GS 3+5=8, lente 18 mm.
+
+Diagnosis:
+prostaat*biopt*adenocarcinoom*revisie discordant*trial",63,0.196875,6.3,32.0,SysBx+MRBx+RP,"5,N/A,N/A","2,2,1"
+2015-03-17,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,16206,254846809879723014017629956153169584201,SIEMENS,Skyra,1400,"Klinische gegevens:
+PSA: 5,1,
+Geen biopten in voorgeschiedenis.
+In het kader van 4M studie.
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 63 cc. PSA densiteit: 0,08.
+
+Afwijking nr. 1: ter plaatse van perifere zone rechts mediaal apex-mid
+prostaat.
+Score T2W: 2, Score DCE: +, Score DWI: 2, minimale ADC waarde 1326.
+Beeld past het best bij focale prostaat (PIRADS 2).
+De afmeting van dit gebied (gemeten op de ADC/T2W opnamen) is:18 x 12 mm.
+
+Afwijking nr. 2: ter plaatse van perifere zone rechts lateraal apex
+prostaat.
+Score T2W: 4, Score DCE: -, Score DWI: 2, minimale ADC waarde 1327.
+Beeld past het best bij fibrose / atrofie (PIRADS 2). Op de diffusie
+gewogen opname focaal ook een lineair artefact.
+De afmeting van de laesie (gemeten op de T2W opnamen) is: 9 x 4 mm.
+
+Gering BPH.
+
+Impressie:
+Geen significant carcinoom.
+Afwijking(en) passend bij focale prostatitis en fibrotische veranderingen
+perifere zone rechts apex prostaat (PIRADS 2).
+Geen indicatie voor MRI geleide biopt (in studieverband).","Klinische gegevens:
+***Alpe d' Huzes MRI studie****  Verkrijgingswijze biopt Klinische gegevens 4M studie Vraagstelling Maligniteit? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I Links: Apex perifere zone posterolateraal 12p=geel Inzending II Links Midden perifere zone posterolateraal 10p=groen Inzending III Links Basis perifere zone posterolateraal 8p=zwart Inzending IV Links Apex perifere zone posterior mediaan 11p=rood Inzending V Links Midden perifere zone posterior mediaan 9p=blanco Inzending VI Links Basis centrale zone 7p=blauw Inzending VII Rechts Apex perifere zone posterolateraal 6p=geel Inzending VIII Rechts Midden perifere zone posterolateraal 4p=groen Inzending IX Rechts Basis perifere zone posterolateraal 2p=zwart Inzending X Rechts Apex perifere zone posterior mediaan 5p=rood Inzending XI Rechts Midden perifere zone posterior mediaan 3p=blanco Inzending XII Rechts Basis centrale zone 1p=blauw  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+18-03-2015 Op formaline: I: een geel weefselstrengetje lengte 10 mm. T.i. 1b. II: een deels geel deels groen weefselstrengetje lengte 15 mm. Ingesloten in cassette I 1. III: een wit beige deels donkergrijs tot zwart weefselstrengetje lengte 14 mm. Ingesloten in cassette I 1. IV: een rood weefselstrengetje lengte 12 mm. T.i. 1b. V: een wit beige weefselstrengetje lengte 19 mm. Ingesloten in cassette IV1. VI: een wit beige deels donkerblauw weefselstrengetje lengte 20 mm. Ingesloten in cassette IV1. VII: een geel weefselstrengetje lengte 17 mm. T.i. 1b. VIII: een groen strengetje lengte 15 mm. Ingesloten in cassette VII 1. IX: een wit beige deels licht groen weefselstrengetje lengte 10 mm. Ingesloten in cassette VII 1. X: een rood weefselstrengetje lengte 12 mm. T.i. 1b. XI: een wit beige weefselstrengetje lengte 20 mm. Ingesloten in cassette X 1. XII:een blauw weefselstrengetje lengte 13 mm. Ingesloten in cassette X 1. Alle weefselstrengen hebben diameter van 0,5 tot 1 mm. K Jan
+
+Microscope:
+18-03-2015. I t/m XII prostaatnaaldbiopten met verspreid matig chronisch actieve ontsteking. Atrofie. Geen aanwijzingen voor maligniteit.
+
+Conclusion:
+TRUS geleide prostaatnaaldbiopten I t/m VI links en VII t/m XII rechts: geen aanwijzingen voor maligniteit. Verspreid matig chronisch actieve ontsteking en atrofie.
+
+Diagnosis:
+prostaat*biopt*geen maligniteit",57,0.08,5.1,63.0,SysBx,"2,2","0,0"
+2015-03-23,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,16216,79189847077753545143347363591939906678,SIEMENS,Skyra,1400,"Klinische gegevens:
+Verhoogd PSA. Prostaatcarcinoom? In kader van 4M studie.
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 118 cc. PSA densiteit:0,04.
+
+Afwijking nr. 1: ter plaatse van perifere zone rechts apex tot mid
+prostaat.
+Score T2W: 4, Score DCE: + (matig), Score DWI: 5, minimale ADC waarde 553.
+
+Beeld past het best bij significant carcinoom (PIRADS 5).
+De afmeting van delaesie (gemeten op de ADC opnamen) is minstens: 29 x 20
+mm.
+
+Breed contact met het kapsel, bulging apicaal rechts en obliteratie van de
+recto prostatische hoek; microscopische extraprostatische uitbreiding
+apicaal rechts niet uitgesloten.
+
+Afwijking nr. 2: ter plaatse van perifere zone links mid prostaat.
+Score T2W: 4,
+Score DCE: +,
+Score DWI: 4, minimale ADC waarde 693.
+Beeld past het best bij significant carcinoom (PIRADS 4).
+De afmeting van de tumor (gemeten op de ADC opnamen) is: 15 x 7 mm.
+Geen bulging, gering contact met het kapsel, 7 mm, en breed contact met de
+vesicula seminalis links zonder argumenten voor ingroei hierin.
+
+Impressie:
+Afwijking(en) passend bij groot significant carcinoom in de perifere zone
+rechts van mid tot apex prostaat (PIRADS 5); breed contact met kapsel,
+microscopische extraprostatische uitbreiding apicaal rechts goed mogelijk.
+
+Daarnaast tweede afwijking verdacht voor significant carcinoom in de
+perifere zone links basis prostaat, breed contact met vesiculae seminalis
+links zonder duidelijke argumenten voor ingroei hierin (PIRADS 4).
+Aanvullend MRI geleide biopsie afw 1+2.","Klinische gegevens:
+***Alpe d' Huzes MRI studie**** zie ook T15-06939  Verkrijgingswijze biopt Klinische gegevens 4M/Alpe studie MR geleid biopt Vraagstelling prostaatcarcinoom? Gleason score? Eerder materiaal verzonden No Electronen microscopie No Aanleveringswijze Formaline Inzending I pz rechts Inzending II pz rechts Inzending III pz links Inzending IV pz links  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+24-03-2015. Op unifix: I: twee grijs bruine naaldbiopten van 57 mm. T.i. 1b. II: twee lichtbruine naaldbiopten van 5 en 8 mm. T.i. 1b. III: grijs wit naaldbiopt met lengte van 17 mm. Eosine aangekleurd. T.i. 1b. IV: twee grijs bruine naaldbiopten waarvan een waarschijnlijk een bloed fragmentje is. Lengte respectievelijk 3 en 12 mm. Eosine aangekleurd. T.i. 1b. A Maat.
+
+Microscope:
+I twee relatief korte stukjes prostaatweefsel. Wat hyperplastische uitbundig geplooid tot wat papillair epitheel maar daarin wisselende deels vrij sterke kernatypie. Basale cellen merendeels wel herkenbaar. Plaatselijk een drietal tussenliggende kleinere buisjes. II twee relatief korte pijpjes. Ook hier vrij uit bundelig geplooid epitheel. Ruime vrij helder cytoplasma. Licht atypische kern. Wel wat cribriforme groei. III vrij lang biopt met wat hyperplastische structuren en ook een een deels daartussen een gebied met toename van buisjes met vergrote cellen met perifeer liggende kernen soms wat langgerekt maar ook geregeld met grotere kern en dikke nucleolus. Soms een aanduiding van basale cellen maar mogelijk toch ook hier niet. Dit gebiedje is circa 3 mm groot. Nabij een uiteinde wat verknepen buizen. Epitheel daar wordt de cribriforme in de volgende niveaus en twee solide. Waarschijnlijk een graad 4 carcinoom component betreffend. Dit gebied is circa 4 mm groot. IV wat brokkelig biopt met gebieden van carcinoom als beschreven in III. Deels graad 3 patroon en plaatselijk cribriforme partijtjes passend bij graad 4. Ongeveer 80 vol% van dit wat brokkelige biopten innemend.  OUDE CONCLUSIE: Voorlopig bericht, in afwachting van interne consultatie van mijn gespecialiseerde collega, verwacht op 30 maart: MRI geleide prostaatbiopten: I perifere zone rechts: een beeld verdacht voor ductaal adenocarcinoom van de prostaat dan wel een vorm van high grade PIN. II perifere zone rechts: ductaal adenocarcinoom, lengte circa 10 mm (interne consultatie nog noodzakelijk). III perifere zone links: adenocarcinoom, Gleason score 3 +4 = 7, tumorlengte circa 11 mm. IV perifere zone links: adenocarcinoom, Gleason score 3 +4 = 7, tumorlengte circa 9 mm.  02-04-2015. Revisie en consultatie intern. I. intraductaal carcinoom, lengte 10 mm, verdacht invasief over 5 mm, GS 3+4=7. ERG +, heterogeen. II.  intraductaal carcinoom, lengte 10 mm. ERG +, heterogeen. III. intraductaal carcinoom, lengte 5 mm en verspreid invasief, GS 3+4=7, lengt 10 mm. ERG diffuus +. GG 4 5%. IV.  intraductaal carcinoom, lengte 3 mm en verspreid invasief, GS 3+4=7, lengt 10 mm. ERG diffuus +. GG 4 10%. CAHK.
+
+Conclusion:
+GEWIJZIGD na consultatie en revisie intern: MRI geleide prostaatbiopten: I. perifere zone rechts: INTRADUCTAAL (en niet ductaal) adenocarcinoom, lengte 10 mm, verdacht invasief over 5 mm, GS 3+4=7.  II. perifere zone rechts: intraductaal adenocarcinoom, lengte 10 mm.  III. perifere zone links: intraductaal adenocarcinoom, lengte 5 mm en verspreid invasief, GS 3+4=7, lengt 10 mm.. GG 4 5%. IV. perifere zone links:  intraductaal adenocarcinoom, lengte 3 mm en verspreid invasief, GS 3+4=7, lengt 10 mm. GG 4 10%.
+
+Diagnosis:
+prostaat*biopt*adenocarcinoom.",68,0.04,4.72,118.0,SysBx+MRBx+RP,"5,4","5,2"
+2015-10-05,RUMC-4M,MR WETENSCHAP PROSTAAT DETECTIE 14044 (4XM) I.V. CONTRAST,16496,193249253928446235241256929506996591064,SIEMENS,Skyra,1400,"Klinische gegevens:
+Verhoogd PSA (3,7)
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 46 cc. PSA densiteit: 0,09.
+
+Afwijking nr. 1: ter plaatse van perifere zone beiderzijds met basis
+prostaat posterior.
+Score T2W: 2, Score DCE: +,Score DWI: 2, minimale ADC waarde 986.
+Beeld past het best bij verdenking prostatitis d.d. laaggradig carcinoom
+(PIRADS 2).
+Geen aanwijzingen voor extra prostatische uitbreiding.
+
+Impressie:
+Geen significant carcinoom.
+Beiderzijds afwijkingen in de perifere zone beiderzijds met basaal, meest
+passend bij prostatitis.
+Geen MRI geleide biopten (4M).
+PIRADS 2.","Klinische gegevens:
+4M ***Alpe d' Huzes MRI studie****  bereikbaarheid aanvrager->sein 2590 Verkrijgingswijze biopt Klinische gegevens 4M: Verhoogd PSA. Biopten genomen met disposable gun BARD Monopty Vraagstelling Maligniteit? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I Links: Apex perifere zone posterolateraal 12p=geel Inzending II Links Midden perifere zone posterolateraal 10p=groen Inzending III Links Basis perifere zone posterolateraal 8p=zwart Inzending IV Links Apex perifere zone posterior mediaan 11p=rood Inzending V Links Midden perifere zone posterior mediaan 9p=blanco Inzending VI Links Basis centrale zone 7p=blauw Inzending VII Rechts Apex perifere zone posterolateraal 6p=geel Inzending VIII Rechts Midden perifere zone posterolateraal 4p=groen Inzending IX Rechts Basis perifere zone posterolateraal 2p=zwart Inzending X Rechts Apex perifere zone posterior mediaan 5p=rood Inzending XI Rechts Midden perifere zone posterior mediaan 3p=blanco Inzending XII Rechts Basis centrale zone 1p=blauw.  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+19/10/2015. Op unifix. I: geel naaldbiopt van maximaal 2 cm. T.i. 1c. II: zeer licht aangekleurd groen weefsel naaldbiopt van maximaal 1,6 cm. T.i. bij I. III: Zeer licht zwart aangekleurd naaldbiopt van maximaal 2,1 cm. Het fragment totaal ingesloten bij I. IV: rood naaldbiopt maximaal 1,6 cm. T.i. 1c. V: ongekleurd naaldbiopt maximaal 1,6 cm. T.i. ingesloten bij IV. VI: blauw naaldbiopt van maximaal 2 cm. Het fragment totaal ingesloten bij IV. VII: geel naaldbiopt maximaal 1,5 cm. T.i. 1c. VIII: licht groen aangekleurd naaldbiopt van maximaal 1,7 cm. T.i. ingesloten bij VII. IX: licht zwart aangekleurd naaldbiopt van maximaal 1,4 cm. Het fragment totaal ingesloten bij VII. T.i.. X: rood naaldbiopt van maximaal 1,5 cm. T.i. 1c. XI: ongekleurd naaldbiopt maximaal 1,9 cm. T.i. ingesloten bij X. XII: blauw naaldbiopt maximaal 1,6 cm. Het fragment totaal ingesloten bij X. Knui.
+
+Microscope:
+I glas met drie onderverdelingen. Atrofie en wat rondkernig infiltraat in het gele en groene biopt. IV ook drie onderverdelingen op een glas. Geen tumor. Matig uitgebreid rondkernig infiltraat. Beste niveau is niveau drie. In het ongekleurde biopt vloeien de infiltraten deels zelfs samen. VII vergelijkbaar. X idem.  Revisie intern ivm 4M studie. Geheel conform. Geen aanwijzingen voor maligniteit. Conclusie ongewijzigd. CAHK
+
+Conclusion:
+I - XII prostaatbiopten beiderzijds zesmaal: geen tekenen van maligniteit. Beiderzijds matige tot forse chronische ontsteking. Revisie intern ivm 4M studie: concordant.
+
+Diagnosis:
+prostaat*biopt*geen maligniteit*ontsteking",68,0.09,3.7,46.0,SysBx,2,0
+2019-02-02,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,10144,28365765096244503066232284509084742450,SIEMENS,Skyra,1400,"Relevante voorgeschiedenis: Echo: ProstaatVolume: 60cc, RT: verdenking
+cT2, PSA=9,5, MDXtest urine: matig risico.\
+Gerichte vraagstelling: SQA? pirads score.
+
+MRI 20/01/2018 ter vergelijking.
+
+Verslag:\
+Techniek: Er werd gescand met het detectieprotocol: 3T zonder endorectale
+spoel. Beelden van de locale prostaat met T2W-, diffusie gewogen (DWI)- en
+dynamisch (DCE). De laatste tijdens contrasttoediening (15 ml i.v.).\
+
+Bevindingen:\
+Prostaat volume: 65.31 cc; 63 x 36 x 55 mm\
+PSA: 10; PSAD: 0.15.\
+
+Index laesie mark1:\
+Plaats: perifere zone rechts midprostaat.\
+Laesie grootte: 10 x 4 mm.\
+T2W/DWI/DCE score: 2/2/-.\
+Minimale ADC waarde: 972 (normaal groter dan 950).\
+Risico categorie: Atrophy/Fibrosis (PIRADS v2 categorie: 2).\
+
+Index laesie mark2:\
+Plaats: mid perifere zone beiderzijds, rechts meer dan links.\
+T2W/DWI/DCE score: 2/2/+.\
+Risico categorie: Prostatitis/low-grade Cancer (PIRADS v2 categorie: 2).\
+
+Ongewijzigd aspect van bekende lymfeklieren.
+
+Impressie:
+\
+Ongewijzigd afwijking perifere zone rechts midprostaat passend bij
+atrofie/fibrose (PIRADS 2).\
+Bijkomend prostatitis. Geen aanwijzingen voor significant carcinoom.\
+
+Supervisie: Dr. JGR Bomers.\
+\",,73,0.15,9.5,65.31,,"2,2","0,0"
+2019-02-16,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,10216,152239081862655645083669424427895152088,SIEMENS,Skyra,1400,"Klinische gegevens:\
+PSA: 11.\
+
+Verslag:\
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 mL Dotarem i.v.) gemaakt.\
+Geen eerdere opnamen ter vergelijk.
+
+Bevindingen:\
+De prostaat heeft een volume van 183 cc. PSA densiteit: 0,06.
+
+Afwijking nr. 1: ter plaatse van de gehele transitie zone.\
+Score T2W: 2,
+Score DCE: +,
+Score DWI: 2, minimale ADC waarde 971.\
+Beeld past het best bij uitgebreid, proliferatieve BPH (PIRADS 2).\
+
+In de perifere zone geen tekenen van significant prostaatcarcinoom. Zeer
+gering prostatitis in de perifere zone rechts midprostaat.
+
+Diverticulosis coli.
+
+Impressie:
+\
+Geen aanwijzingen voor significant prostaatcarcinoom.\
+Afwijking(en) passend bij uitgebreide, proliferatieve BPH in de transitie
+zone (PIRADS 2).\
+\",,72,0.06,11.0,183.0,,2,0
+2017-08-20,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,11000,294363370878114486111622228632612293212,SIEMENS,Skyra,1400,"Klinische gegevens:\
+PSA 8. 5. Klinisch stadium T0.\
+Significante afwijkingen?
+
+Verslag:\
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Geen eerder onderzoek ter vergelijking.
+De prostaat heeft een volume van 174 cc. PSA densiteit: 0,05 .
+
+Zeer smalle perifere zone beiderzijds, deze wordt gecomprimeerd door de
+grote transitie zone.\
+Uitgebreid BPH de transitie zone met protruderende nodulaire blaashals.\
+Zowel in de perifere zones in de transitie zone geen aanwijzing voor
+significant prostaatcarcinoom.\
+Enkele fibrotische afwijkingen in de smalle perifere zone beiderzijds
+zonder significante diffusie-restrictie.\
+Zeer klein focus van restrictie op de overgang perifere zone rechts naar
+extra prostatische zie hiervoor IMA 14 serie 9, geduid als niet klinisch
+relevant en extraprostatisch gelocaliseerd (PIRADS 2, aangegeven in het
+schema bij afwijking 1).\
+Liesbreuk links met herniatie van mesenteriaal vet, breukpoort 2 cm.\
+Geen vergrote lymfklieren in het scan bereikt. Minimaal spoortje vocht in
+het heupgewricht rechts.
+
+Impressie:
+\
+Geen aanwijzing voor significant prostaatcarcinoom.\
+Benigne prostaathypertrofie.\
+PIRADS 2.",,64,0.05,8.5,174.0,,2,0
+2018-02-10,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,11728,174051731488582071771349602957804124124,SIEMENS,Prisma_fit,1400,"Klinische gegevens:\
+PSA: 17,18.\
+Status na negatieve (TRUS) biopten.\
+Klinisch stadium: cT0. Thans PV 113 met LUTS.
+
+Verslag:\
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (7,5 mL Gadovist i.v.) gemaakt.\
+Geen eerdere opnamen ter vergelijk.
+
+Bevindingen:\
+De prostaat heeft een volume van 163 cc. PSA densiteit: 0,10.
+
+Afwijking nr. 1: ter plaatse van de gehele transitie zone.\
+Score T2W: 2,
+Score DCE: +,
+Score DWI: 2, minimale ADC waarde 1020.\
+Beeld past het best bij uitgebreide, prolifererende BPH met protrusie van
+een prostaatlob in de blaas (PIRADS 2).\
+
+In de perifere zone geen tekenen voor prostaatcarcinoom.
+
+Impressie:
+\
+Geen aanwijzingen voor significant prostaatcarcinoom.\
+Afwijking(en) passend bij uitgebreide, prolifererende BPH met protrusie
+van een prostaatlob in de blaas (PIRADS 2).\",,71,0.1,17.18,163.0,,2,0
+2018-03-10,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,11872,304247319017888859862244960334903030677,SIEMENS,Skyra,1400,"Klinische gegevens:
+Mogelijk prostaat carcinoom;
+PSA: 5,5 ,
+- maal negatieve (TRUS) biopten,
+Klinisch stadium: - .
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 111 cc. PSA densiteit: 0,05 .
+
+Afwijking nr. 1: ter plaatse van centraal de in de perifere zone niveau
+basis .
+Score T2W: 4 ,
+Score DCE: + ,
+Score DWI: 4 , minimale ADC waarde 874 .
+Beeld past het best bij significant prostaatcarcinoom (PIRADS 4 ).
+De afmeting van de tumor (gemeten op de ADC opnamen) is : 14 x 8 mm.
+
+Impressie:
+Afwijking(en) passend bij significant prostaatcarcinoom (PIRADS 4).","Klinische Gegevens:
+P.S.A.: 5,5. Volume: 92 cc. M.R.I.: Pirads 4: PZ midline, basis 14 x 8 mm. Vraagstelling: maligniteit?  Omschrijving materiaal: prostaatbiopten. I - IV: Pirads 4. V - VII: random Re. PZ. VIII - X: random Li. PZ.  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+28/3/2018 In formaline. I: een grijsbeige naaldbiopt met lengte van 1,7 cm. II: een grijsbeige naaldbiopt met lengte van 1,6 cm. Ingesloten I. T.i. 1b. III: een grijsbeige naaldbiopt met lengte van 1 cm. IV: een grijsbeige naaldbiopt met lengte van 1,2 cm. Ingesloten beide III. T.i. 1b. V: een grijsbeige naaldbiopt met lengte van 1,3 cm. VI: een grijsbeige naaldbiopt met een lengte van 1,8 cm. T.i. 1b. Ingesloten in V. VII: een grijsbeige naaldbiopt met een lengte van 1,4 cm. T.i. 1b. VIII: 3 rafelige naaldbiopt maximale lengte van 3 mm. IX: een naaldbiopt met een lengte van 1 cm en een flardje van 2 mm. Ingesloten beide VIII. T.i. 1b. X: een grijsbeige naaldbiopt met een lengte van 0,8 cm. T.i. 1b. Naaldbiopt aangekleurd met Alcian blue. Maximale diameter 1 mm. T.i. 1b.  Vos
+
+Microscope:
+I1 glas met 2 onderverdelingen. Normale buizen. III een glas met 2 onderverdelingen. G.b.. V1 glas met 2 onderverdelingen. Vrij veel atrofie. G.b.. VII g.b.. VIII een glas met 2 onderverdelingen. Wat brokkelige stukjes biopt. G.b.. X g.b..
+
+Conclusion:
+I- X prostaat biopten: in geen van deze 10 onderverdelingen tekenen van maligniteit.
+
+Diagnosis:
+prostaat*biopt*geen afwijking",65,0.05,5.5,111.0,SysBx+MRBx,4,0
+2018-05-13,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,12176,137430720817881597970938005143862326779,SIEMENS,Skyra,1400,"Klinische gegevens:\
+PSA: 5,44.\
+
+Verslag:\
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (7mL Gadovist i.v.) gemaakt.\
+Er wordt vergeleken met eerder onderzoek d.d. 22/04/2017.
+
+Bevindingen:\
+De prostaat heeft een volume van 79 cc. PSA densiteit: 0,06.
+
+Afwijking nr. 1: ter plaatse van de perifere zone rechts laterodorsaal
+midprostaat.\
+Score T2W: 2,
+Score DCE: -,
+Score DWI: 2, minimale ADC waarde 1215.\
+Beeld van bekende laesie die thans het best past bij fibrose (PIRADS 2).\
+
+Impressie:
+\
+Geen aanwijzingen voor significant prostaatcarcinoom.\
+Afwijking(en) passend bij fibrose (PIRADS 2).\
+
+Mede beoordeeld door prof.dr. JJ. Futterer.\
+\",,68,0.06,5.44,79.0,,2,0
+2018-06-30,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,12346,172119067889186268718358862662164014111,SIEMENS,Skyra,1400,"Relevante voorgeschiedenis: Fluctuerende psa van 11 naar 5 zonder
+aanwijzingen voor afwijkende touche , en prostatitis
+Gerichte vraagstelling: maligniteit?
+
+Geen eerder onderzoek ter vergelijking.
+
+Verslag:
+
+Techniek: Er werd gescand met het detectieprotocol: 3T zonder endorectale
+spoel. Beelden van de locale prostaat met T2W-, diffusie gewogen (DWI)- en
+dynamisch (DCE). De laatste tijdens contrasttoediening (15 ml gadobutrol
+i.v.).\
+
+Bevindingen:\
+Prostaat volume: 44 cc; 40 x 52 x 41 mm\
+PSA: 5; PSAD: 0,11 (normaal minder dan 0,20).\
+
+Index laesie mark1:\
+Plaats: mid perifere zone rechts .\
+Laesie grootte: 10 x 6 x 11 mm.\
+T2W/DWI/DCE score: 4/4/+.\
+Minimale ADC waarde: 801 (normaal groter dan 950).\
+Risico categorie: Intermediate/high-grade Cancer (PIRADS v2 categorie:
+4).\
+Mogelijk extra-prostatische uitbreiding, op basis van breedbasisch
+contact.\
+
+Impressie:
+
+Afwijking passend bij Intermediate/high-grade Cancer perifere zone rechts
+(PIRADS 4).\
+Mogelijke extra-prostatische uitbreiding, op basis van breedbasisch
+contact.\","Klinische Gegevens:
+P.S.A.: 5 Volume: 51 cc M.R.I.: Pirads 4: PZ, Rechts , 10 x 6 mm. ECE?  Vraagstelling: maligniteit?  Omschrijving materiaal: prostaatbiopten I - IV: Pirads 4: ( ECE/Kapsel =4 )  V - VIII: Random Re  IX - XIV: Random Li   Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+13/7/2018 Op formaline. I: een witbeige naaldbiopt met een diameter van 1 mm en een lengte van 8 mm + 3 beige flardjes van 2 mm. T.i. 1b. II: 2 witbeige naaldbiopten met een diameter van 1 mm en lengte van 5 en 3 mm. Ti bij I. III: een witbeige naaldbiopt met een diameter van 1 mm en een lengte van 8 mm + 1 flardje van 2 mm. T.i. 1b. IV: 4 weefselflardjes van maximaal 3 mm. T.i. 1b. V: een witbeige naaldbiopt met een diameter van 1 mm en een lengte van 12 mm + 1 flardje van 3 mm. T.i. 1b. VI: een witbeige naaldbiopt met een diameter van 1 mm en lengte van 7 mm plus 3 flardjes van 2 mm. Ti bij V.  VII: een witbeige naaldbiopt met een diameter van 1 mm en een lengte van 12 mm. T.i. 1b. VIII: een beige naaldbiopt met een diameter van 1 mm en een lengte van 12 mm + 1 flardje van 2 mm. Ti bij VII. IX: een witbeige naaldbiopt met een diameter van 1 mm en een lengte van 16 mm + 1 flardje van 3 mm. T.i. 1b. X: een witbeige naaldbiopt met een diameter van 1 mm en een lengte van 8 mm + 2 beige flardjes van 2 mm. Ti bij IX. XI: een witbeige naaldbiopt met een diameter van 1 mm en een lengte van 15 mm. T.i. 1b. XII: een witbeige naaldbiopt met een diameter van 1 mm en een lengte van 16 mm. Ti bij XI. XIII: een witbeige naaldbiopt met een diameter van 1 mm en lengte van 13 mm. T.i. 1b. XIV: een beige naaldbiopt met een diameter van 1 mm en een lengte van 9 mm. Ti bij XIV. Alle fragmenten aangekleurd met Alcian blue.  Roij
+
+Microscope:
+I een glas met 2 onderverdelingen. Brokkelige biopten. In beide gebieden carcinoom. Enerzijds cribriforme configuraties met beperkte atypie beschouwd als carcinoom, mogelijk deels intraductaal. In de andere biopsie massaal klierbuisjes, deels abortieve, deels fuserend. 4 + 3 = 7. Tevens wat extraprostatisch vet aanwezig waarin overigens geen tumor. III wat brokkelig biopt. Plaatselijk carcinoom, 4 + 3 = 7. IV. Het spierweefsel. Geen representatief prostaatweefsel. V een glas met 2 onderverdelingen. Een lang biopt met prostaatweefsel, tumorvrij. In het andere wat brokkelige biopt geen duidelijke tumor maar een matige chronische ontsteking. Tevens wat neutro's. VII een glas met 2 onderverdelingen 2 pijpjes prostaatweefsel. Wat brokkelig. Geen tumor. IX een glas met 2 onderverdelingen. 2 pijpjes prostaatweefsel. Geen tumor. XI een glas met 2 onderverdelingen. 2 prostaat biopten. Beiden vrij. Plaatselijk wat atypisch epitheel in een biopt. XIII beiden vrij.
+
+Conclusion:
+Prostaat biopten: I- IV PI-RADS 4: in 3 van de 4 biopten adenocarcinoom Gleasonscore 4 + 3 = 7, tumor lengte gezamenlijk ca. 7 mm . In IV (kapsel) geen kapselweefsel of tumor maar enkel skeletspierweefsel. Aldus niet representatief. V- VIII random rechts: in deze 4 biopten geen tekenen van maligniteit. IX- XIV random links: in deze 6 biopten geen tekenen van maligniteit.
+
+Diagnosis:
+prostaat*biopt*adenocarcinoom",71,0.11,5.0,44.0,SysBx+MRBx+RP,4,3
+2018-07-07,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,12379,100508352117507241787192510034123368310,SIEMENS,Skyra,1400,"Klinische gegevens:\
+PSA: 9,92.\
+
+Verslag:\
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (7mL Gadovist i.v.) gemaakt.\
+Geen eerdere opnamen ter vergelijk.
+
+Bevindingen:\
+De prostaat heeft een volume van 146 cc. PSA densiteit: 0,07.
+
+Afwijking nr. 1: ter plaatse van de gehele transitie zone.\
+Score T2W: 2,
+Score DCE: +,
+Score DWI: 2, minimale ADC waarde 797.\
+Beeld past het best bij uitgebreide prolifererende BPH (PIRADS 2).\
+
+Enige fibrose in de perifere zone.
+
+Impressie:
+\
+Geen aanwijzingen voor significant prostaatcarcinoom.\
+Afwijking(en) passend bij uitgebreide BPH in de gehele transitie zone
+(PIRADS 2).\
+
+Mede beoordeeld door prof.dr. JJ. Futterer.\
+\",,79,0.07,9.92,146.0,,2,0
+2018-08-07,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,12509,137963214740127153561719072081049599483,SIEMENS,Skyra,1400,"Klinische gegevens:\
+PSA: 6,44.\
+Klinisch stadium: RT en TRUS gb.
+
+Verslag:\
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 mL Dotarem i.v.) gemaakt.\
+Geen eerdere opnamen ter vergelijk.
+
+Bevindingen:\
+De prostaat heeft een volume van 50 cc. PSA densiteit: 0,12.
+
+Afwijking nr. 1: ter plaatse van de anterieure hoorn perifere zone rechts
+apex prostaat.\
+Score T2W: 4,
+Score DCE: +,
+Score DWI: 4, minimale ADC waarde 743.\
+Beeld past het best bij intermediair- tot hooggradig prostaatcarcinoom
+(PIRADS 4).\
+De afmeting van de laesie (gemeten op de T2/ADC opnamen) is circa 12 x 7
+mm. De laesie grenst aan het ventrale ""kapsel"", macroscopisch zijn er
+echter geen aanwijzingen voor extraprostatische uitbreiding.
+
+Geringe inflammatoire veranderingen in de perifere zone. Normaal aspect
+van de zaadblazen.
+
+Impressie:
+\
+Afwijking(en) passend bij intermediair- tot hooggradig prostaatcarcinoom
+anterieure hoorn perifere zone rechts apex prostaat, zonder tekenen voor
+extraprostatische uitbreiding (PIRADS 4).\
+
+Mede beoordeeld door prof.dr. JJ. Futterer.\
+\","Klinische Gegevens:
+P.S.A.: 6,44. Volume: 35 cc. M.R.I.: PI-RADS 4: PZ, Rechts naar ant. hoorn, apex: 12 x 7 mm. ECE? Vraagstelling: maligniteit?  Omschrijving materiaal: prostaatbiopten. I - IV: Pirads 4.  III + IV: kapsel. V - VIII: random Re. IX - XII: random Li.  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+24/8/2018 In formaline I: een beige naaldbiopt met lengte van 1,2 cm. T.i. 1b. II. Een beige naaldbiopt met lengte van 1,10 m. Ti ingesloten bij I. III: een beige slijmerig naaldbiopt met lengte van 5 cm. Ti t.i. 1b. IV: een beige slijmerig naaldbiopt met lengte van 1,0 cm. Ti ingesloten bij III. V: een beige slijmig naaldbiopt met een lengte van 1,6 cm. T.i. 1b. VI: een beige naaldbiopt met lengte van 1,8 cm. Ti ingesloten bij V. VII: een beige naaldbiopt met lengte van 2,6 cm. T.i. I1 B. VIII: een beige naaldbiopt met een lengte van 2,0 cm. Ti ingesloten bij VII. IX: een beige naaldbiopt met een lengte van 1,6 cm. T.i. 1b. X: een beige deels slijmerig naaldbiopt met lengte van 2,0 cm. Ti ingesloten bij IX. XI: een beige naaldbiopt met lengte van 1,7 cm. T.i. 1b. XII: een beige naaldbiopt met lengte van 2,0 cm. Ti ingesloten bij XI.  LSch
+
+Microscope:
+28-08-18. I en II een 2-tal pijpvormige prostaatweefselbiopten met fibromusculair stroma, enkele pre-existente organoid gelegen klierbuisjes bekleed met 2-lagig kubisch cilindrisch epitheel, en daarnaast in beide biopten infiltratief groeiende, goed gevormde klierbuisjes bestaande uit 1-lagig kubisch cilindrisch epitheel waarin licht vergrote kernen met prominente nucleoli. Focaal wat slechter gevormde fuserende buisjes. Totale tumorlengte 11 mm. III en IV gefragmenteerde prostaatweefselbiopten: in het langste biopt enkele verwijde pre-existente klierbuisjes en daarnaast infiltratief groeiende goed gevormde buisjes over een lengte van 4 mm. In het in haar langste biopt enkele atrofische pre-existente en enkele atypische buisjes (minder dan 1 mm). Tevens wat extraprostatisch vetweefsel zonder tumor. Daarnaast nog zeer kleine fragmenten van bindweefsel met in de randen enkele verknepen en niet zeker te beoordelen buisjes. V en VI een 2-tal pijpvormige prostaatweefselbiopten met fibromusculair stroma, talrijke pre-existente klierbuisjes en daarnaast in een biopt 2 foci van kleinere buisjes waarin basale cellen lijken te ontbreken. Immuunhistochemisch onderzoek volgt. VII en VIII een 2-tal pijpvormige prostaatweefselbiopten met fibromusculair stroma, pre-existente klierbuisjes. Daarnaast in beide biopten infiltratief groeiende, merendeels goed gevormde maar deels ook wat fuserende en beginnend  cribriforme buisformaties over een totale lengte van 8 mm. IX en X na de insluitprocedure een 3-tal pijpvormige prostaatweefselbiopten met fibromusculair stroma, talrijke pre-existente klierbuisjes. In een biopt een groep van buisjes bekleed met cilindrisch epitheel waarin kernstapeling tot onder het luminale oppervlak en vergrote hyperchromatische kernen met prominente nucleoli. Basale cellen aanwezig passend bij high grade PINn. Geen invasieve tumor. XI en een 2-tal pijpvormige prostaatweefselbiopten en daarnaast in een biopt infiltratief groeiende goed gevormde buisjes over een lengte van 2 mm.  VOORLOPIGE CONCLUSIE:  prostaat biopten I t/m IV uit PI-RADS 4 laesie PZ rechts naar voor anterior hoornen apex: in 3 van de 4 biopten adenocarcinoom, Gleasonscore 3 + 4 = 7. Ook in een van de als kapsel ingezonden biopten adenocarcinoom,in het tevens genomen extraprostatisch vetweefsel geen tumor. V t/m VIII random rechts: in tenminste 2 van de 4 biopten adenocarcinoom, Gleasonscore 3 + 4 = 7. Tumorlengte tenminste 8 mm, op 1 biopt volgt nog immuunhistochemisch onderzoek. IX t/m XII random links: in 1 van de 5 biopten adenocarcinoom, Gleasonscore 3 + 3 = 6, tumorlengte 1,5 mm. ISUP score: 2.  30-08-18 AANVULLING. V immunohistochemie: De verdachte buisjes tonen met 34ÃŸE12-P63 alleen cytoplasmatische maar geen nucleaire aankleuring. In dezelfde buisjes overexpressie van AMACR. Uitgestrekt over een lengte van 7 mm.
+
+Conclusion:
+DEFINITIEF NA IMMUNOHISTOCHEMISCH ONDERZOEK, 30-08-18:  prostaat biopten I t/m IV uit PI-RADS 4 laesie PZ rechts naar voor anterior hoornen apex: in 3 van de 4 biopten adenocarcinoom, Gleasonscore 3 + 4 = 7. Ook in een van de als kapsel ingezonden biopten adenocarcinoom,in het tevens genomen extraprostatisch vetweefsel geen tumor. V t/m VIII random rechts: in 2 van de 4 biopten adenocarcinoom, Gleasonscore 3 + 4 = 7. Tumorlengte 15 mm. IX t/m XII random links: in 1 van de 5 biopten adenocarcinoom, Gleasonscore 3 + 3 = 6, tumorlengte 1,5 mm. ISUP score: 2.
+
+Diagnosis:
+prostaat*rechts*links*biopt*adenocarcinoom*i.p.reactie",64,0.12,6.44,50.0,SysBx+MRBx+RP,4,2
+2017-07-15,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,12813,168054932333159506108420820390337467941,SIEMENS,Skyra,1400,"Klinische gegevens:
+Mogelijk prostaat carcinoom;
+sedert 2009 opgelopen PSA tot 9,9 in 2015. Toen bij MRI PI-RADS 4, biopsie
+verricht geen maligniteit gevonden (toen nog geen fusie biopsie. Nu 5.
+2017 PSA 8,2 PSAD 0,13. TRUS 62cc. Vergeleken met 2015 andere beeld?
+Palpatoir prostaat links vaster dan rechts. Cysten intra prostatisch.
+PSA: 8,2,
+2 maal negatieve (TRUS) biopten,
+Klinisch stadium: T0.
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+Vergeleken met 20/06/2015.
+
+Bevindingen:
+De prostaat heeft een volume van 62 cc. PSA densiteit: 0,13.
+
+Afwijking nr. 1: ter plaatse van de transitie zone links anterieur, apex
+prostaat.
+Score T2W: 3,
+Score DCE: -,
+Score DWI: 5, minimale ADC waarde 794.
+Beeld past het best bij intermediair gradig prostaatcarcinoom d.d. BPH met
+proliferatieve veranderingen (PIRADS 3).
+De afmeting van de tumor (gemeten op de ADC opnamen) is : 12 x 12 mm.
+
+Impressie:
+Afwijking ongewijzigd passend bij intermediair gradig prostaatcarcinoom
+d.d. BPH met proliferatieve veranderingen in de transitie zone links, apex
+prostaat (PIRADS 3).","Klinische Gegevens:
+Biopten in 2009 en 2015: niet maligne. P.S.A.: 8,2. Volume:  72 cc. M.R.I.: Pirads 3 Li. anterieur, apex. Mogelijk 2e laesie links.      Vraagstelling: maligniteit?  Omschrijving materiaal: prostaatbiopten. I - III: Pirads 3 (ant.) IV: Pirads 3? V - VII: Random Li. VIII: Random Re.  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+15-09-2017. Formaline. I: een flardige beige weefselstreng van 1,7 cm + 1 flardje. Deze met eosine aangekleurd. T.i. 1b. II: Een flardige beige weefselstreng van 1,7 cm. Deze bijgesloten bij I cassette 1. T.i. III: een flardige grijze weefselstreng van 1,8 cm plus flardje. Deze met eosine aangekleurd ingesloten in cassette 1. T.i. 1b. IV: een flardige beige weefselstreng van 1,4 cm. Deze met eosine aangekleurd ingesloten in cassette 1. T.i. 1b. V: een flardige beige weefselstreng  van 1,3 cm + 1 flardje. Deze met eosine aangekleurd ingesloten in cassette 1. T.i. 1b. VI: een beige weefselstreng van 1,3 cm. Deze bijgesloten bij V cassette 1. T.i. I. VII: een beige weefselstreng van 1,3 cm + 1 flardje. Deze met eosine aangekleurd t.i. 1b. VIII: een slijmerige weefselstreng van 0,6 cm + 1 flardje. Deze met eosine aangekleurd ingesloten in cassette 1. T.i. 1b. Pat
+
+Microscope:
+<st0>Gebaseerd op de richtlijn prostaatcarcinoom versie 2.1 (2016)  Klinische gegevens Aantal biopten links: 3 Aantal biopten rechts: 1 Aantal biopten target (1) links anterieur apex: 3 Targetbiopten (1) links anterieur apex o.b.v. laesie: MRI PIRADS 3 Aantal biopten target (2) links (target): 1 Targetbiopten (2) links (target) o.b.v. laesie: MRI PIRADS 3  Waarde PSA: 8,2 ng/ml  Macroscopie Aantal biopten rechts zonder prostaatklierweefsel: 1  Microscopie Type tumor (WHO): (acinair) adenocarcinoom Zijdigheid tumorlokalisatie: links anterieur apex Perineurale invasie: niet aangetroffen (Lymf-) angio-invasie: niet aangetroffen Extra-prostatische uitbreiding: niet aangetroffen Aantal tumorpositieve biopten target (1) links anterieur apex: 3 1e biopt lengte tumor: 1,0 mm 2e biopt lengte tumor: 3,0 mm 3e biopt lengte tumor: 2,0 mm Cumulatieve lengte tumor target (1) links anterieur apex: 6,0 mm Volume tumor target (1) links anterieur apex: 4% van de biopten Gleason score target (1) links anterieur apex: 3 + 3 = 6 meest voorkomende component: 3 2de component: 3 3de en hogere component: niet aanwezig Andere bevindingen target (1) links anterieur apex: geen invasieve cribriforme groei of intraductaal carcinoom (IDC-P) aangetroffen  Aanvulling microscopie Tumor in target 1 1/17; 3/17; 2/18mm. In het biopt IV wordt focaal goudgeelpigment gezien passend bij vesicula seminales. In VII wordt chronische ontsteking gezien met geringe reactieve atypie in de buisjes. In VIII slechts extra-prostatische weefsel.   </st0>
+
+Conclusion:
+<st0>Prostaatbiopten links geen tumorlokalisatie in 3 biopten. Prostaatbiopten rechts geen tumorlokalisatie in 1 biopt. Prostaatbiopten target (1) links anterieur apex met (acinair) adenocarcinoom in 3 van de 3 biopten. Gleason score target (1) links anterieur apex: 3 + 3 = 6; [ISUP groep 1]. Volume tumor links anterieur apex 4%. Cumulatieve lengte tumor links anterieur apex: 6,0 mm. Andere bevindingen target (1) links anterieur apex: geen invasieve cribriforme groei of intraductaal carcinoom (IDC-P) aangetroffen. Prostaatbiopten target (2) links (target) geen tumorlokalisatie in 1 biopt. Totaal aantal positieve biopten: 3; Extraprostatische uitbreiding: niet aangetroffen. </st0>
+
+Diagnosis:
+prostaat*systeem*zijdigheid onbekend*biopt*adenocarcinoom",62,0.13,8.2,62.0,SysBx+MRBx,3,1
+2017-06-03,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,14238,50031893429941754720356204133914126133,SIEMENS,Skyra,1400,"Klinische gegevens:\
+Mogelijk prostaatcarcinoom.\
+PSA: 14.\
+1x negatieve (TRUS) biopten.\
+Klinisch stadium: nvt.
+
+MRI prostaat:\
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (7 ml gadobutrol i.v.) gemaakt.\
+Vergeleken werd met 29/08/2010.
+
+Bevindingen:\
+De prostaat heeft een volume van 170 ml (dit was destijds 97 ml). PSA
+densiteit: 0,08.
+
+Bekende uitgebreide BPH, dit is toegenomen in vergelijking met destijds.\
+In tegenstelling tot het vorige onderzoek worden er thans 2 lesies gezien
+in de perifere zone dorsaal:
+
+Afwijking nr. 1: ter plaatse van de perifere zone dorsolateraal rechts
+apex prostaat een ovale lesie.\
+Score T2W: 4,\
+Score DCE: +,\
+Score DWI: 4, minimale ADC waarde 591.\
+Beeld past het best bij een significant carcinoom (PI-RADS 4).\
+De afmeting van de tumor (gemeten op de ADC opnamen) is: 11 x 11 x 9 mm.\
+Geen aanwijzingen voor extra prostatische extensie.
+
+Afwijking nr. 2: ter plaatse van de perifere zone links midprostaat een
+grotendeels goed afgrensbare lesie, tegen het dorsale kapsel aan.\
+Score T2W: 4,\
+Score DCE: +,\
+Score DWI: 4, minimale ADC waarde 583.\
+Beeld past het best bij een significant prostaatcarcinoom (PI-RADS 4).\
+De afmeting van de tumor (gemeten op de ADC opnamen) is: 13 x 13 x 12 mm.\
+
+Dorsaal worden duidelijk tekenen gezien van extra prostatische extensie.
+
+Voor zover afgebeeld links in de obturatorius regio en rechts in het
+pararectale vet een lymfklier, zonder duidelijke diffusie-restrictie.\
+Voor zover afgebeeld geen aanwijzingen voor ossale metastasen.
+
+Impressie:
+\
+Afwijkingen in de perifere zone rechts dorsolateraal apex prostaat en ook
+in de perifere zone links dorsaal midprostaat passend bij significant
+prostaatcarcinoom (2x PI-RADS 4).\
+Rechts geen aanwijzingen voor EPE, links duidelijk aanwijzingen voor EPE
+over een kort traject.\
+Voor zover afgebeeld geen evidente lymfklier metastasen dan wel
+skeletmetastasen.
+
+Advies:\
+Biopsie rechts en links.\
+\","Klinische Gegevens:
+PSA: 14. Volume: 140. MRI: P4: re dorsolateraal 11x11 mm. P4: li dorsaal 13x12 mm. Zeer forse BPH. Vraagstelling: maligniteit?  Omschrijving materiaal: prostaatbiopten. I-II: P4 re. III-IV: P4 re kapsel. V-VIII: P4 links. IX: random li. X: random re.  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+26-07-2017. I tot met X op formaline. I: pijpvormige weefselfragment van 10 mm t.i. 1b. II: pijpvormige weefselfragment van 12 mm. Ingesloten bij I. III: 3-tal zie rafelig pijpvormig weefselfragmentje van 3 mm. T.i. 1b. IV: 4-tal zeer rafelige de pijpvormig weefselfragment van 2-3 mm  ingesloten bij III. V: pijpvormig weefselfragment van 9 mm.T.i. 1b.  VI:  pijpvormig weefselfragment van 10 mm ingesloten bij V. VII:  2-tal rafelige weefselfragmentjes 2 en 5 mm. T.i. 1b. VIII: pijpvormig weefselfragment van 16 mm ingesloten bij VII. IX: 2-tal zeer rafelige weefselfragment van 2 en 4 mm. T.i. 1b. X : huid rondom is fragment van 7 mm. T.i. 1b. Alles  aangekleurd met eosine ILaa.
+
+Microscope:
+28-07-17. I en II een 2-tal pijpvormige prostaatweefselfragmenten bestaande uit fibromusculair stroma en pre-existente klierbuisjes, bekleed door cellen met 2-lagig cilindrisch epitheel ofwel een enkelvoudige laag van basaalcellen, beide niet atypisch. Daarnaast in een biopt diffuus infiltrerende atypische klierformaties met doorgaans cribriforme groeipatronen, bestaande uit 1-lagig kubisch epitheel met vergrote kernen waarin prominente nucleoli, over een traject van 5 mm. Tevens een klein fragment skeletspierweefsel zonder afwijkingen. III na de insluit procedure  uiteengevallen fragmenten van het skeletspierweefsel en vetweefsel zonder afwijkingen, daarnaast 2 pijpvormige prostaatweefselbiopten waarvan een met een kleine focus van atypische klierbuisjes met deels acinair en deels glomeruloid groeipatroon, bestaande uit 1-lagig kubisch epitheel met met kernatypie zoals in I en II beschreven. Maximale lengte 1 mm. V en VI een 2-tal pijpvormige prostaatweefselbiopten bestaande uit fibromusculair stroma, enkele pre-existente klierbuisjes en daarnaast infiltratief groeiende atypische buisformaties met overwegend cribriform, deels ook acinair groeipatroon; opgebouwd uit cilindrische epitheelcellen met vergrote hyperchromatische kernen waarin prominente nucleoli en, vergeleken met bovenbeschreven tumor, duidelijk basofieler cytoplasma. Uitgestrekt over een traject van 12 mm. VII en VIII een lange en 2 korte prostaatweefsel biopten met in de 2 kleinste fibromusculair stroma en pre-existente niet atypische klierbuisjes, in het langste biopt ook infiltratief groeiende atypische buisjes met overwegend cribriform, deels acinair groeipatroon en cytonucleaire atypie zoals in V en VI beschreven, over een traject van 12 mm. IX. 3-tal weefselpijpjes waarvan 2 prostaatweefsel met fibromusculair stroma en pre-existente klierbuisjes laten zien. In het derde biopt bindweefsel en gladde spiervezels en verhoornend, niet atypisch plaveiselepitheel. Geen tumor. X klein pijpvormig prostaatweefsel biopt bestaande uit fibromusculair stroma en pre-existente niet atypische klierbuisjes. Geen tumor.
+
+Conclusion:
+I en II P4  rechts: in 1 van de 2 biopten adenocarcinoom, Gleasonscore 4 + 4 = 8, Tumorlengte 5 mm. III en IV P4 rechts kapsel: in een van de biopten adenocarcinoom, Gleasonscore 3 + 4 = 7, Tumorlengte 1 mm. V t/m VIII P4 links: in 3 van de 4 biopten adenocarcinoom, Gleasonscore 4 + 3 = 7, Tumorlengte 24 mm. IX random  links en X random rechts: geen maligniteit. Prognostische score volgens Epstein: 3.
+
+Diagnosis:
+prostaat*rechts*links*biopt*adenocarcinoom",62,0.08235294117647059,14.0,170.0,SysBx+MRBx,"4,4","4,3"
+2017-09-02,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,14553,204720038654243179589250866468754295892,SIEMENS,Skyra,1400,"Klinische gegevens:\
+PSA 11.
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Ter vergelijking meerdere onderzoeken waarvan de laatste 01/10/2016.
+
+De prostaat heeft een volume van 89 cc. PSA densiteit: 0,12.
+
+In de perifere zone beiderzijds diffuus (chronisch) prostatitis (Score T2:
+2, DWI: 2; DCE: -; PIRADS 2).\
+In de perifere zone beiderzijds geen significante diffusie-restrictie. De
+PIRADS 4 laesie bij voorgaand onderzoek stand PZ rechts is thans niet
+reproduceerbaar.
+BPH in de transitie zone.\
+In de transitie zone geen significante afwijkingen.\
+Normaal aspect van de vesiculae seminales.\
+Prominente ductus ejucalatorii met significante diffusie-restrictie,
+geduid als fysiologisch (ter plaatse van de midlijn basis prostaat
+doorlopend naar mid prostaat).
+
+Impressie:
+\
+Geen aanwijzing voor significant prostaatcarcinoom.\
+Diffuus gering chronische prostatitis.\
+PIRADS 2.",,52,0.12,11.0,89.0,,2,0
+2017-09-09,RUMC,MR PROSTAAT ANDROSKL DETECTIE I.V. CONTRAST,14576,107286616213423415499281125309324672459,SIEMENS,Skyra,1400,"Klinische gegevens:\
+Mogelijk prostaatcarcinoom.\
+PSA: 0,95.\
+0x (TRUS) biopten.\
+Klinisch stadium: nvt.
+Vader, grootvader en broer: allen overleden aan prostaatca op jonge
+leeftijd. Ondanks PSA van 1 en geen afwijkend RT toch MRI om agressief
+prostaatca uit te sluiten.
+
+MRI prostaat:\
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (7,5 ml gadobutrol i.v.)
+gemaakt.\
+Geen oude opnamen ter vergelijking.
+
+Bevindingen:\
+De prostaat heeft een volume van 23 ml. PSA densiteit: 0,04.
+
+Afwijking nr. 1: op de T2 grijs aspect van de gehele perifere zone.\
+Score T2W:2,\
+Score DCE: +,\
+Score DWI: 2, minimale ADC waarde 1401.\
+Beeld past het best bij een licht chronische prostatitis, hoewel dit niet
+echt past bij een PSA van 0,95. Dit wordt echter vaker gezien bij jonge
+mensen zonder dat er sprake is van pathologie (PI-RADS 2).\
+
+Voor zover beoordeelbaar:\
+Geen aanwijzingen voor pathologische lymfomen.\
+Geen aanwijzingen voor ossale pathologie.
+
+Impressie:
+\
+Geen aanwijzingen voor een significant carcinoom (PI-RADS 2).
+
+Advies:\
+Eventueel controle MRI op geleide van de PSA.
+
+Onderzoek is medebeoordeeld door collega van der Leest.\
+
+\",,55,0.04,0.95,23.0,,2,0
+2019-01-21,RUMC,MR PROSTAAT DETECTIE I.V. CONTRAST,10088,170844940453029622053814805368917834466,SIEMENS,Skyra,1400,"Relevante voorgeschiedenis: Gleason 3+3=6 prostaatcarcinoom waarvoor
+active surveillance
+PSA: 6,5
+
+Verslag:
+Er werd gescand met het detectie-protocol: Van de locale prostaat zijn er
+T2-, diffusie gewogen (DWI)- en dynamische (DCE) opnamen tijdens
+contrasttoediening (Gadovist i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 75 cc. PSA densiteit: 0,09 .
+
+Afwijking nr. 1: ter plaatse van perifere zone / transitiezone basis
+prostaat links .
+Score T2W: 2 ,
+Score DCE:-,
+Score DWI: 2, minimale ADC waarde 1706 .
+Beeld past het best bij uitpuilende BPH nodule (PIRADS 2 ).
+
+Ook elders in de transitiezone multipele BPH nodules.
+
+Enkele trabekels in de blaas.
+
+Impressie:
+Afwijkingen passend bij BPH (PIRADS 2 ), in essentie ongewijzigd ten
+opzichte van oktober 2017.
+Geen aanwijzingen voor significant prostaatcarcinoom.",,74,0.09,6.5,75.0,,2,0
+2018-03-28,RUMC,MR PROSTAAT DETECTIE I.V. CONTRAST,10331,103824639105805481721657708724722963754,SIEMENS,Skyra,1400,"Klinische gegevens:
+PSA: 5,5.
+Klinisch stadium: Mogelijk T2 rechts.
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (7mL Gadovist i.v.) gemaakt.
+Er wordt vergeleken met eerdere opnamen van elders d.d. 29-12-2017.
+
+Bevindingen:
+De prostaat heeft een volume van 37 cc. PSA densiteit: 0,16.
+
+Afwijking nr. 1: ter plaatse van de transitie zone rechts ventraal apex
+prostaat.
+Score T2W: 2,
+Score DCE: +,
+Score DWI: 2, minimale ADC waarde 1107.
+Beeld past het best bij een uitpuilende BPH nodus (PIRADS 2).
+
+Afwijking nr. 2: ter plaatse van de transitie zone rechts midprostaat.
+Score T2W: 2,
+Score DCE: +,
+Score DWI: 2, minimale ADC waarde 1112.
+Beeld van bekende laesie gezien op eerdere MRI van elders, past het best
+bij BPH, niet verdacht voor carcinoom (PIRADS 2).
+
+Gering fibrose in de perifere zone. Enige compressie van de centrale zone.
+Normaal aspect van de zaadblazen.
+
+Impressie:
+Geen aanwijzingen voor significant prostaatcarcinoom.
+De laesie die op eerdere opnamen werd gezien past het best bij een BPH
+nodus en is niet verdacht voor prostaatcarcinoom.
+Afwijking(en) passend bij BPH in de transitie zone (PIRADS 2).",,60,0.16,5.5,37.0,,"2,2","0,0"
+2018-02-07,RUMC,MR PROSTAAT DETECTIE I.V. CONTRAST,11723,61045666852834221925094708281686136848,SIEMENS,Skyra,1400,"Klinische gegevens:
+LUTS.
+PSA 14.
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Geen eerder onderzoek ter vergelijking.
+
+De prostaat heeft een volume van 100 cc. PSA densiteit: 0,14.
+
+1: ter plaatse van perifere zone links posterieur mid prostaat (IMA 15
+serie 10);
+Score T2W: 5,
+Score DCE: -/+,
+Score DWI: 5, minimale ADC waarde 543.
+Beeld past het best bij intermediair - hooggradig (PIRADS 5).
+De afmeting van de laesie (gemeten op de ADC opnamen) is ca 27 x 10 mm.
+Bulging posterolateraal links alsook breed contact met het kapsel,
+verdenking op discreet extra prostatische uitbreiding.
+Geen aanwijzingen voor ingroei in vesiculae seminales.
+
+BPH in de transitie zone.
+Protruderende nodule rechts craniaal mid prostaat.
+Klein blaasdivertikel.
+Beiderzijds liesbreuk, rechts breukpoort van 15 mm en links 30 mm waarbij
+links een darm in hernieert, geen radiologische tekenen van inklemming.
+Cyste uitgaande van het heupgewricht rechts.
+
+Impressie:
+Intermediair - hooggradig prostaatcarcinoom in de perifere zone links
+posterieur doorlopend naar lateraal mid prostaat met verdenking op
+discreet extracapsulaire uitbreiding. Geen tekenen van ingroei in
+vesiculae.
+Liesbreuk links met herniatie van darmlis.
+PIRADS 5.","Klinische Gegevens:
+Materiaal voor biobank->No Bereikbaarheid aanvrager->10997 Verkrijgingswijze biopt Klinische gegevens psa:14 psad:0,14 op mri leasie PIRADS 5 gezien Vraagstelling prostaatcarcinoom? Gleason score? epe? Eerder materiaal verzonden No Electronen microscopie No Aanleveringswijze Formaline Inzending I PZ links posterieur mid prostaat Inzending II PZ links posterieur mid prostaat  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+13/3/2018 In unifix I: een grijsbeige naaldbiopt met lengte van een 1,5 cm. T.i. 1b. II: een grijsbeige naaldbiopt met lengte van 1,4 cm en een flardje. Ti ingesloten bij I. Alle fragmenten een diameter van maximaal 0,5 tot 1,0 cm. Alle fragmenten worden met Alcian blue aangekleurd en ingepakt in filterpapier.  MDEM
+
+Microscope:
+16-03-18. Een 2-tal pijpvormige prostaatweefselbiopten waarvan 80% is geinfiltreerd door diffuus infiltrerende klierbuizen opgebouwd uit 1-lagig kubocilindrisch epitheel met matig vergrote kernen waarin prominente nucleoli en licht basofiel cytoplasma. Groeipatroon overwegend acinair, focaal trabeculair en dissociatief. In enkele grotere pre-existente buizen plotse overgang van normaal 2-lagig epitheel tot atypisch secretoir epitheel met sterke vergrote kernen, echter qua kerngrootte onvoldoende voor intraductaal carcinoom en dus geclassificeerd als high grade PIN. Totale tumorlengte 21 mm.  03-07-2018. Revisie door CWZ te Nijmegen. Revisie prostaatbiopten Radboud UMC coupes T18-6089: Prostaatbiopten PZ links posterieur midprostaat: twee prostaatbiopten met in beide biopten uitgebreide lokalisatie van acinair type adenocarcinoom, Gleason score 4 + 5 = 9. Totale Tumorlengte 21 mm, ca. 80 vol%. Wij komen hierbij tot een andere Gleasonscore dan collega elders.  Het biopt met de hoogste Gleason-score betreft 4 + 5 = 9. Prognostische graderingsgroep volgens Epstein: 5.
+
+Conclusion:
+I en II prostaatbiopten PZ links posterieur midprostaat: in beide biopten adenocarcinoom, Gleasonscore 3 + 5 = 8, totale tumorlengte 21 mm oftewel 80 vol%. Tevens high gragde PIN. Prognostische groepsgradering: 4. 31-12-18 AANVULLING: Revisie extern discordant ( 1 focus als Gleason score 4 + 5  geinterpreteerd).
+
+Diagnosis:
+prostaat*links*biopt*adenocarcinoom*revisie extern discordant",71,0.14,14.0,100.0,SysBx+MRBx,5,5
+2018-04-28,RUMC,MR PROSTAAT DETECTIE I.V. CONTRAST,12114,1944009133721432449047991863491524511,SIEMENS,Skyra,1400,"Klinische gegevens: mogelijk prostaat carcinoom (PCa); PSA: 7; 0 maal
+negatieve (TRUS) biopten; klinisch stadium: T0.
+
+Techniek: Er werd gescand met het detectieprotocol: 3T zonder endorectale
+spoel. Beelden van de locale prostaat met T2W-, diffusie gewogen (DWI)- en
+dynamisch (DCE). De laatste tijdens contrasttoediening (15 ml gadobutrol
+i.v.).
+
+Bevindingen:
+Prostaat volume: 91.11 cc;
+PSA: 7; PSAD: 0.08 (normaal minder dan 0,20).
+
+Index laesie mark1:
+Plaats: PZ mid-prostaat bdz.
+T2W/DWI/DCE score: 2/2/+.
+Minimale ADC waarde: 2037 (normaal groter dan 950).
+Risico categorie: Prostatitis/low-grade Cancer (PIRADS v2 categorie: 2).
+
+Impressie:
+afwijking passend bij prostatitis PZ mid-prostaat bdz en
+BPH(PIRADS 2).",,70,0.08,7.0,91.11,,2,0
+2017-06-02,RUMC,MR PROSTAAT DETECTIE I.V. CONTRAST,13638,307846122399273500664818504297760941029,SIEMENS,Skyra,1400,"Klinische gegevens:
+Prostaatcarcinoom waarvoor active surveillance sinds 2013, controle MRI
+PSA: 8,6,
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 53 cc. PSA densiteit: 0,17.
+
+Afwijking nr. 1: ter plaatse van de perifere zone beiderzijds, apex tot
+midprostaat.
+Score T2W: 2,
+Score DCE: - ,
+Score DWI: 2, minimale ADC waarde 1463.
+Beeld past het best bij postinflammatoire veranderingen d.d. laaggradig
+prostaatcarcinoom (PIRADS 2). Tevens volumeverlies in de perifere zone
+links.
+
+Impressie:
+Afwijking(en) passend bij postinflammatoire veranderingen met
+volumeverlies in de perifere zone (PIRADS 2). Geen aanwijzingen voor
+significant prostaatcarcinoom.",,61,0.17,8.6,53.0,,2,0
+2017-05-02,RUMC,MR PROSTAAT DETECTIE I.V. CONTRAST,14129,1114945877400740014789094736103071533,SIEMENS,Skyra,1400,"Klinische gegevens:\
+Hematurie, LUTS en vergrote klieren.\
+PSA: 0,59.
+
+Verslag:\
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.\
+
+Bevindingen:\
+De prostaat heeft een volume van 17 cc. PSA densiteit: 0,06.
+
+Afwijking nr. 1: ter plaatse van de perifere zone beiderzijds van apex tot
+midprostaat.\
+Score T2W: 2,
+Score DCE: +,
+Score DWI: 2, minimale ADC waarde 984.\
+Beeld past het best bij inflammatoire veranderingen (PIRADS 2).
+
+Focaal restrictie geheel lateraal perifere zone links mid prostaat, op T2
+niet het beeld van een prostaat tumor, derhalve vermoedelijk niet klinisch
+relevant.
+
+Normaal aspect van de zaadblazen. Normale blaascontour.\
+Inguinaal beiderzijds prominente lymfklieren met diffusie-restrictie.
+
+Impressie:
+\
+Geen aanwijzingen voor significant prostaatcarcinoom.\
+Vrij forse prostatitis in de perifere zone beiderzijds van apex tot
+midprostaat
+(PIRADS 2).",,23,0.06,0.59,17.0,,2,0
+2017-06-03,RUMC,MR PROSTAAT DETECTIE I.V. CONTRAST,14249,63336676630887434877879091395987700987,SIEMENS,Skyra,1400,"Klinische gegevens:
+cT1c GS 6 prostaatca 3/20 biopten (alle 3 midprostaat links)
+PSA: 8
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 33 cc. PSA densiteit: 0,24.
+
+Afwijking nr. 1: ter plaatse van de gehele perifere zone.
+Score T2W: 2,
+Score DCE: +,
+Score DWI: 2, minimale ADC waarde 1020.
+Beeld past het best bij prostatitis d.d. laaggradig prostaatcarcinoom
+(PIRADS 2). Tevens post biopsie hemorragische veranderingen in de perifere
+zone, met name links.
+
+Geen aanwijzingen voor extra prostatische uitbreiding of ingroei in de
+vesiculae seminalis.
+
+Impressie:
+Afwijking(en) passend bij prostatitis d.d. laaggradig prostaatcarcinoom in
+de perifere zone (PIRADS 2). Geen aanwijzingen voor significant
+prostaatcarcinoom.",,46,0.24,8.0,33.0,,2,0
+2017-07-17,RUMC,MR PROSTAAT DETECTIE I.V. CONTRAST,14403,71114310379401312673232908857317633799,SIEMENS,Skyra,1400,"Klinische gegevens:
+Hematospermie en PSA 5.9. Vanwege CLL (immuungecompromiteerd) niet eerder
+biopten
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 35 cc. PSA densiteit: 0.17 .
+
+Afwijking nr. 1: ter plaatse van perifere zone rechts, apex - mid prostaat
+.
+Score T2W: 4 ,
+Score DCE: + ,
+Score DWI: 4 , minimale ADC waarde 569 .
+Beeld past het best bij intermediate tot hooggradig prostaatcarcinoom
+(PIRADS 4 ).
+De afmeting van de tumor (gemeten op de ADC opnamen) is : 9 x 8 mm.
+
+Afwijking nr. 2: ter plaatse van perifere zone links, midprostaat .
+Score T2W: 3 ,
+Score DCE: + ,
+Score DWI: 2 , minimale ADC waarde 1416 .
+Beeld past het best bij prostatitis (PIRADS 2 ).
+
+Impressie:
+Afwijking(en) passend bij intermediair tot hooggradig prostaatcarcinoom
+rechts en prostatitis links (PIRADS 4 en 2 ).","Klinische Gegevens:
+Materiaal voor biobank->No Bereikbaarheid aanvrager->52309 Verkrijgingswijze biopt Klinische gegevens PSA 4.9; Afw. op MRI; psad 0.17; Gaarne transperineaal biopt bij st. na SCT bij B-CLL Vraagstelling Prostaatcarcinoom? Gleason score? Eerder materiaal verzonden No Electronen microscopie No Aanleveringswijze Formaline Inzending I PZ/TZ, apex, re Inzending II Idem als I Inzending III PZ, apex, re ventraler Inzending IV Idem als III  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+17-10-2017. Op unifix: I: een grijsbeige naaldbiopt met een lengte van 13 mm. II: een grijsbruin huidbiopt met een lengte van 10 mm. II ingesloten bij I. T.i. 1b. III: een grijsbeige naaldbiopt met een lengte van 13 mm. IV: een bruin naaldbiopt  met een lengte van 10 mm. IV ingesloten bij III. T.i. 1b. A Maat.
+
+Microscope:
+I een glas met 2 onderverdelingen. In beide biopten uitgebreid carcinoom. In een biopt aan de rand wat vetweefsel. Geen tumor in die nabij het. Het carcinoom bestaat uit abortusfragmenten en overgangen naar u nagenoeg soliede groeiende veldjes. Ook individuele cellen. Gering aantal circumscripte buisjes. 5 + 4 = 9 III eveneens een glas met 2 onderverdelingen. Ook hier bovengenoemd carcinoom. Hier nog wel overwegend circumscripte buizen. 3 + 5 = 8
+
+Conclusion:
+Prostaat biopten: I- II perifere zone/transitie zone, apex, rechts: in beide biopten uitgebreid adenocarcinoom, Gleasonscore 5 + 4 = 9. III- IV perifere zone, apex, rechts ventraler: in beide biopten uitgebreid adenocarcinoom, Gleasonscore 3 + 5= 8. Prognostische groepsgradering volgens  Epstein 5
+
+Diagnosis:
+prostaat*biopt*adenocarcinoom",66,0.17,5.9,35.0,MRBx,"4,2","5,0"
+2017-09-27,RUMC,MR PROSTAAT DETECTIE I.V. CONTRAST,14673,95669035775645156088264725575687127474,SIEMENS,Skyra,1400,"Klinische gegevens:
+Chronisch verhoogd PSA. Eerder negatieve biopten.
+PSA 12.
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Geen eerder onderzoek ter vergelijking.
+
+De prostaat heeft een volume van 74 cc. PSA densiteit: 0,16.
+
+In de perifere zone beiderzijds enkele lineaire vormige laag signaal
+structuur, passende bij enige fibrose / post biopsie.
+Twee tal concrementen in de transitie zone links posterieur basis
+prostaat.
+Zowel in de transitie zone als in de perifere zone geen aanwijzingen voor
+intermediair - hooggradig prostaatcarcinoom.
+Gering BPH.
+Focus van diffusie-restrictie in de midlijn basis prostaat posterieur
+fysiologisch, gezien T2.
+Normaal aspect vesiculae seminales.
+Afgebeelde kleine bekken voor het overige geen bijzonderheden.
+
+Impressie:
+Geen significant prostaatcarcinoom.
+PIRADS 2.",,55,0.16,12.0,74.0,,"2,2","0,0"
+2018-05-30,RUMC,MR PROSTAAT PDC I.V. CONTRAST,12236,88669644988501235232707484174437920966,SIEMENS,Skyra,1400,"Klinische gegevens: mogelijk prostaat carcinoom (PCa); PSA: 4; 0 maal
+negatieve (TRUS) biopten; klinisch stadium: T2R.
+
+Techniek: Er werd gescand met het detectieprotocol: 3T zonder endorectale
+spoel. Beelden van de locale prostaat met T2W-, diffusie gewogen (DWI)- en
+dynamisch (DCE). De laatste tijdens contrasttoediening (15 ml gadobutrol
+i.v.).
+
+Bevindingen:
+Prostaat volume: 38.77 cc;
+PSA: 4; PSAD: 0.1 (normaal minder dan 0,20).
+
+Index laesie mark1:
+Plaats: mid-prostaat tot apex PZ L.
+Laesie grootte: 10 x 18 x 11 mm.
+T2W/DWI/DCE score: 5/5/+.
+Minimale ADC waarde: 784 (normaal groter dan 950).
+Risico categorie: Intermediate/high-grade Cancer (PIRADS v2 categorie: 5).
+None extra-prostatische uitbreiding.
+
+Impressie:
+verdenking op significant PCa mid-prostaat tot apex PZ L
+(PIRADS 5).","Klinische Gegevens:
+Materiaal voor biobank->No Verkrijgingswijze biopt Klinische gegevens P5 lesie Links pz apex Vraagstelling maligniteit? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I Links pz apex Inzending II Links pz apex Inzending III Links pz apex  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+5/6/2018 In formaline I: Twee beige prostaat biopten met lengtes van 1,2 en 1,0 cm. T.i. 1b. II: Twee beige prostaat biopten met lengtes van 1,0 x 0,8 cm. T.i. 1b. III: Een beige prostaat biopt met een lengte van 1,3 cm. T.i. 1b.  LSch/SKie
+
+Microscope:
+I 2 weefselpijpjes waarvan de langste bestaat uit kapselachtig weefsel. Er is een biopt met prostaatklierbuizen, lengte ca. 7 mm. Plaatselijk in wat fibreus gebied grillige buisjes met vrij kleine kernen, geduid als vorm van atrofie. II vergelijkbaar met I. Blazig groepje pre-existente buizen een 2-tal atypische buisjes. Immuno volgt. III: een fors biopt, tumorvrij een stukje met een ganglion.  Vervolg 8-6: Inmiddels hebben wij de immuunhistochemie van II beschikbaar. In de basale cellen marker is er in het gebied van verknepen buisjes in nivo 1 enige positiviteit maar eigenlijk iets minder dan verwacht. In niveau 2 is er geruststellende beperkte positiviteit met de basale cellen markers. Het gebiedje is negatief voor AMACR in beide niveaus. Hooguit plaatselijk wat geringe positiviteit. Aldus onvoldoende resterende verdenking op maligniteit.
+
+Conclusion:
+Voorlopig bericht:  I- III prostaat biopten links perifere zone apex: de biopten I en III zijn tumorvrij. In II. een gering aantal atypische klierbuizen dat wij nog nader moeten classificeren met behulp van immuunhistochemie. Dit is nog niet gereed op donderdag 7-6. DEFINITIEF BERICHT 8-6-'18: na immuunhistochemie classificeren wij de I t/m III als 'in geen van deze 3 onderverdelingen overtuigende maligniteit gevonden' .
+
+Diagnosis:
+prostaat*biopt*geen maligniteit",55,0.1,4.0,38.77,MRBx+RP,5,2
+2018-09-12,RUMC,MR PROSTAAT PDC I.V. CONTRAST,12652,7446812630595882014936188898333211234,SIEMENS,Skyra,1400,"Klinische gegevens: mogelijk prostaat carcinoom (PCa); PSA: 15; 0 maal
+negatieve (TRUS) biopten; klinisch stadium: T0.\
+
+Techniek: Er werd gescand met het detectieprotocol: 3T zonder endorectale
+spoel. Beelden van de locale prostaat met T2W-, diffusie gewogen (DWI)- en
+dynamisch (DCE). De laatste tijdens contrasttoediening (15 ml gadobutrol
+i.v.).\
+
+Bevindingen:\
+Prostaat volume: 51.57 cc;\
+PSA: 15; PSAD: 0.29 (normaal minder dan 0,20).\
+
+Index laesie mark1:\
+Plaats: gehele PZ rechts deels met inflitratie van de TZ rechts. De tumor
+reikt tot aan de basis van de rechter vesiculae seminales zonder
+macroscopische invasie.\
+T2W/DWI/DCE score: 5/5/+.\
+Minimale ADC waarde: 525 (normaal groter dan 950).\
+Risico categorie: Intermediate/high-grade Cancer (PIRADS v2 categorie:
+5).\
+Definite extra-prostatische uitbreiding.\
+
+Impressie:
+afwijking passend bij groot significant carcinoom rechts van
+apicaal tot basis prostaat rechts (PIRADS 5). De tumor reikt tot aan de
+basis van de rechter vesiculae seminales zonder macroscopische invasie.
+Microscopische invasie is echter niet uitgesloten.\","Klinische Gegevens:
+***SNELDIAGNOSTIEK***  Materiaal voor biobank->No Verkrijgingswijze biopt Klinische gegevens Verhoogd PSA. Lesie op MR ter hoogte van perifere zone rechts Vraagstelling Maligniteit? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I periferze zone rechts midprostaat Inzending II perifere zone rechts basis Inzending III vesicel rechts  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+18/9/2018 In formaline. I: grijswit naaldbiopt van maximaal 1,2 cm. T.i. 1c. II: beigewit naaldbiopt maximaal 1,5 cm. T.i. 1c. III: 2 beigewitte weefselfragmenten van maximaal 1 en 2 mm. T.i. 1c.  AKnu
+
+Microscope:
+I fors prostaat biopt met over de gehele lengte carcinoom bestaande uit verspreid liggende cribriforme velden en in mindere mate uit separate klierbuizen. Geen extraprostatisch vet aangetroffen. II als I. III beperkte hoeveelheid weefsel bestaande uit fibromusculair stroma waarin vesikel epitheel. Het biopt is wat verbrokkeld. In een stukje glad spierweefsel bovengenoemd carcinoom. Voor de eenvoud maar beschouwd als vesikel. Tevens wat vetweefsel waarin overigens geen tumor.
+
+Conclusion:
+I- II prostaat biopten perifere zone rechts midprostaat en basis: in beide biopten uitgebreide lokalisatie van adenocarcinoom, Gleasonscore 4 + 3 = 7. III vesikel rechts: wat verbrokkeld biopt met vesikel epitheel en lokalisatie van bovengenoemd adenocarcinoom.
+
+Diagnosis:
+prostaat*biopt*adenocarcinoom",53,0.29,15.0,51.57,MRBx,5,3
+2017-03-15,RUMC,MR PROSTAAT PDC I.V. CONTRAST,13983,227635023187239608038789201154678212766,SIEMENS,Skyra,1400,"Klinische gegevens: mogelijk prostaat carcinoom (PCa); PSA: 7; 0 maal
+negatieve (TRUS) biopten; klinisch stadium: T0.
+
+Techniek: Er werd gescand met het detectieprotocol: 3T zonder endorectale
+spoel. Beelden van de locale prostaat met T2W-, diffusie gewogen (DWI)- en
+dynamisch (DCE). De laatste tijdens contrasttoediening (15 ml gadoteerzuur
+i.v.).
+
+Bevindingen:\
+Prostaat volume: 88.35 cc;\
+PSA: 7; PSAD: 0.08 (normaal minder dan 0,20).
+
+Index laesie mark1:
+Plaats: mid-prostaat R PZ.\
+T2W/DWI/DCE score: 2/2/+.\
+Minimale ADC waarde: 1386 (normaal groter dan 950).\
+Risico categorie: Prostatitis/low-grade Cancer (PIRADS v2 categorie: 2).\
+
+Impressie:
+afwijking passend bij prostatitis en BPH (PIRADS 2).\",,64,0.08,7.0,88.35,,2,0
+2017-07-19,RUMC,MR PROSTAAT PDC I.V. CONTRAST,14409,53839296071946582039516169470303911897,SIEMENS,Skyra,1400,"Klinische gegevens:
+Mogelijk prostaat carcinoom;
+PSA: 5,1 ,
+- maal negatieve (TRUS) biopten,
+Klinisch stadium: - .
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 36 cc. PSA densiteit: 0,14 .
+
+Afwijking nr. 1: ter plaatse van perifere zone rechts, mid - basis .
+Score T2W: 5 ,
+Score DCE: + ,
+Score DWI: 5 , minimale ADC waarde 700 .
+Beeld past het best bij significant prostaatcarcinoom (PIRADS 5 ).
+De afmeting van de tumor (gemeten op de ADC opnamen) is : 21 x 18 mm.
+Er is sprake van broad tumor contact met het kapsel, minimale kapsel
+penetratie kan niet worden uitgesloten.
+
+Afwijking nr. 2: ter plaatse van perifere zone links, midprostaat .
+Score T2W: 3 ,
+Score DCE: - ,
+Score DWI: 3 , minimale ADC waarde 1253 .
+Beeld past het best bij laaggradig prostaatcarcinoom (PIRADS 3 ).
+
+Kleine kliertjes in het mesorectale vet.
+
+Impressie:
+Afwijking(en) passend bij significant prostaatcarcinoom in de perifere
+zone rechts (PIRADS 5 ). Minimale kapsel penetratie kan niet worden
+uitgesloten.","Klinische Gegevens:
+***SNELDIAGNOSTIEK***  Materiaal voor biobank->No Verkrijgingswijze biopt Klinische gegevens PDC. Verhoogd PSA Op MR detectie PIRADS 5 perifere zone rechts, mid - basis Vraagstelling Maligniteit? Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I perifere zone rechts, mid Inzending II perifere zone rechts, mid Inzending III perifere zone rechts, basis Inzending IV perifere zone rechts, basis  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+25-07-2017. I t/m IV op formaline. I: 2-tal pijpvormige weefselfragmenten. Een flardig 4 mm, de ander 9 mm. T.i. 1b. II: wat rafelig pijpvormig weefselfragment van 6 mm, ingesloten bij I. III: pijpvormig weefselfragment van 13 mm. T.i. 1b. IV: 2-tal pijpvormige weefselfragmenten van 5 en 6 mm. Ingesloten bij III. Als aangekleurd met eosine. ILaa.
+
+Microscope:
+I en II: 2 prostaatnaaldbiopten en een fragment opgebouwd uit fibromusculair stroma, een van de biopten bevat geen prostaatklierweefsel. Het andere biopt toont organoid gelegen prostaat klierbuizen bekleed met epitheel omgeven door myo-epitheel. Focaal worden enkele afgeronde klierbuisjes gezien met vergrote kernen en enige atypie, mogelijk zonder myo-epitheel. Aanvullende kleuringen volgen. III en IV: 2  prostaatnaaldbioptenen een fragment  waarvan het fragment alleen bestaat uit fibromusculair stroma. In de 2 naaldbiopten wordt tumor gezien opgebouwd uit afgeronde nestjes en mogelijk losse cellen en atypische epitheelcellen met licht vergrote kernen, nucleoli en ruim wat schuimend cytoplasma. Er zijn enkele fuserende buizen aanwezig, en enkele afdruppelende cellen. Een Gleason 5 component is focaal niet geheel uitgesloten. De tumor neemt in totaal ongeveer 70% van de 2 biopten in. Geen perineurale groei zichtbaar. III en IV mede gezien door MLoo  Aanvulling d.d. 26-7-2017: Immuunhistochemie: I: de buisjes zijn positief in AMACR en hebben geen myo-epitheel in 34BE12.  OUDE CONCLUSIE: Voorloig: I en II: prostaatbiopten perifere zone rechts, mid: 2 biopten met in een biopt  enkele atypische buizen, aanvullende kleuringen volgen. III en IV: prostaatbiopten perifere zone rechts, basis: 2 biopten met adenocarcinoom, Gleasonscore 3 + 4 = 7. Een Gleason 5 component is focaal niet geheel uitgesloten. De tumor is aanwezig in ongeveer 70% van de biopten.
+
+Conclusion:
+DEFINITIEF: I en II: prostaatbiopten perifere zone rechts, mid: 2 biopten met in een biopt focaal adenocarcinoom, Gleason score 3 + 3 = 6, in <5 % van het biopt. III en IV: prostaatbiopten perifere zone rechts, basis: 2 biopten met adenocarcinoom, Gleasonscore 3 + 4 = 7. Een Gleason 5 component is focaal niet geheel uitgesloten. De tumor is aanwezig in ongeveer 70% van de biopten.
+
+Diagnosis:
+prostaat*biopt*adenocarcinoom",74,0.14,5.1,36.0,MRBx,"5,3","2,0"
+2017-09-06,RUMC,MR PROSTAAT PDC I.V. CONTRAST,14571,129043419386529436515569852529145849118,SIEMENS,Skyra,1400,"Klinische gegevens:\
+Verhoogd PSA: 4,7 via huisarts.\
+PSA: Radboudumc: 5,4 (06-09-2017).\
+0x (TRUS) biopten.\
+Klinisch stadium: nvt.
+
+MRI prostaat:\
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (7 ml gadobutrol i.v.) gemaakt.\
+Geen oude opnamen ter vergelijking.
+
+Bevindingen:\
+De prostaat heeft een volume van 50 ml. PSA densiteit: 0,10.
+
+Afwijking nr. 1: ter plaatse van de perifere zone links lateraal
+midprostaat een nodule.\
+Score T2W: 2,\
+Score DCE: -,\
+Score DWI: 4, minimale ADC waarde 584.\
+Beeld past het best bij een ectopische BPH nodule (PI-RADS 2).\
+De afmeting van deze nodule (gemeten op de ADC opnamen) is : 8 x 8 x 6 mm.
+
+Afwijking nr. 2: ter plaatse van de gehele transitie zone, met name
+rechts.\
+Score T2W: 2,\
+Score DCE: -,\
+Score DWI: 2, minimale ADC waarde 917.\
+Beeld past het best bij BPH (PI-RADS 2).
+
+Voor zover afgebeeld:\
+Geen aanwijzingen voor pathologische lymfomen.\
+Geen aanwijzingen voor ossale pathologie.
+
+Impressie:
+\
+Afwijkingen passend bij een ectopische BPH nodule in de perifere zone
+lateraal links midprostaat, daarnaast BPH in de transitie zone (PI-RADS
+2).\
+Geen aanwijzingen voor een significant carcinoom.
+
+Advies:\
+Eventueel controle MRI op geleide van de PSA.\
+\",,58,0.1,4.7,50.0,,"2,2","0,0"
+2017-11-29,RUMC,MR PROSTAAT PDC I.V. CONTRAST,14931,81141137997122864229629687545849353020,SIEMENS,Skyra,1400,"Klinische gegevens:
+Mogelijk prostaat carcinoom;
+PSA: verhoogd,
+
+Verslag:
+Er werd gescand met het detectie-protocol: 3T zonder endorectale spoel.
+Van de locale prostaat zijn er T2-, diffusie gewogen (DWI)- en dynamische
+(DCE) opnamen tijdens contrasttoediening (15 ml Dotarem i.v.) gemaakt.
+
+Bevindingen:
+De prostaat heeft een volume van 84 cc. PSA densiteit: 0,33 .
+
+Afwijking nr. 1: ter plaatse van de perifere zone links, apex tot basis
+prostaat.
+Score T2W: 5,
+Score DCE: +,
+Score DWI: 5, minimale ADC waarde 562.
+Beeld past het best bij hooggradig prostaatcarcinoom (PIRADS 5).
+De afmeting van de tumor (gemeten op de ADC opnamen) is : 24x 8 X 30 mm.
+
+Er sprake van bulging, met breedbasisch contact met het kapsel links
+posterolateraal. Onregelmatige begrenzing van het kapsel, met nauwe
+relatie met de aangrenzende neurovasculaire bundel.
+
+Impressie:
+Afwijking(en) passend bij significant prostaat carcinoom (PIRADS 5).
+Cave: aanwijzingen voor extra prostatische uitbreiding.","Klinische Gegevens:
+***SNELDIAGNOSTIEK***  Materiaal voor biobank->No Bereikbaarheid aanvrager->93650 Verkrijgingswijze biopt Klinische gegevens PIRADS 5 op MRI Vraagstelling Maligniteit Eerder materiaal verzonden No Sneldiagnostiek vlg afgesproken zorgpad Yes Electronen microscopie No Aanleveringswijze Formaline Inzending I perifeer links Inzending II perifeer links Inzending III perifeer links  Ter informatie: dit verslag is elektronisch aangemaakt middels een spraakherkenningsysteem en elektronisch geautoriseerd.
+
+Macroscope:
+5/12/2017 I t/m III op formaline. I: een naaldbiopt van 1,8 cm. T.i. 1b. IIeen naaldbiopt van 1,5 cm ingesloten bij I.  III: een naaldbiopt van 1,3 cm. T.i. 1b. ILAA
+
+Microscope:
+5 december 2017. I en II: doorsnijdingen door 2 prostaatnaaldbiopten opgebouwd uit fibromusculair stroma. Hierin deels organoid gelegen prostaat type klierbuizen bekleed met epitheel met onderliggende basale cellaag. Zeer uitgebreid in beide biopten aanwezigheid van een atypische epitheliale proliferatie. Deels is deze gelegen in goed omschreven buizen. Ook uitgebreid cribriforme groei. De kernen van deze cellen zijn vergroot, rond en pomp en ze hebben een prominente nucleolus. Geen basale cellaag aanwezig. Er is geen extraprostatisch weefsel aangetroffen. In deze biopten geen perineurale groei. Tumor over een traject van respectievelijk 13 en 18 mm. III: in principe eenzelfde beeld als I en II. Door een groot deel van het biopt eenzelfde atypische epitheliale proliferatie als in I en II. Er is perineurale groei. Extraprostatisch weefsel aanwezig. Hierin geen tumor aangetroffen. Tumor over een traject van ca. 10 mm.
+
+Conclusion:
+I t/m III: prostaatbiopten perifeer links: in alle 3 de biopten adenocarcinoom Gleasonscore 4 + 3 = 7 (over een traject van ca. 41 mm, ca. 90 vol%). Er is perineurale groei. Geen extra-prostatische extensie. ISUP groep 3.
+
+Diagnosis:
+prostaat*links*biopt*adenocarcinoom",73,0.33,27.72,84.0,MRBx,5,3
+2015-04-01,ZGT-4M,,M202,M202,SIEMENS,Skyra,1400,,,71,0.1809523809523809,7.6,42.0,SysBx,2,0
+2015-04-29,ZGT-4M,,M218,M218,SIEMENS,Skyra,1400,,,67,0.2695652173913043,6.2,23.0,SysBx+MRBx+RP,"4,5,3","1,2,0"
+2015-06-24,ZGT-4M,,M248,M248,SIEMENS,Skyra,1400,,,68,0.125531914893617,5.9,47.0,SysBx+MRBx+RP,"5,5","1,2"
+2015-07-29,ZGT-4M,,M263,M263,SIEMENS,Skyra,1400,,,73,0.3088235294117647,21.0,68.0,SysBx+MRBx,"5,5","1,4"
+2015-08-19,ZGT-4M,,M274,M274,SIEMENS,Skyra,1400,,,66,0.2636363636363636,8.7,33.0,SysBx+MRBx+RP,"3,5","1,2"
+2015-09-23,ZGT-4M,,M295,M295,SIEMENS,Skyra,1400,,,65,0.2878787878787879,9.5,33.0,SysBx,2,1
+2015-10-07,ZGT-4M,,M404,M404,SIEMENS,Skyra,1400,,,57,0.2363636363636364,13.0,55.0,SysBx,2,0
+2015-10-28,ZGT-4M,,M414,M414,SIEMENS,Skyra,1400,,,62,0.158695652173913,7.3,46.0,SysBx+MRBx,4,1
+2015-11-11,ZGT-4M,,M418,M418,SIEMENS,Skyra,1400,,,73,0.1777777777777778,8.0,45.0,SysBx+MRBx,"4,4","0,2"
+2015-11-11,ZGT-4M,,M420,M420,SIEMENS,Skyra,1400,,,65,0.05463917525773196,5.3,97.0,SysBx,"2,2","1,0"
+2015-11-25,ZGT-4M,,M427,M427,SIEMENS,Skyra,1400,,,53,0.08636363636363636,3.8,44.0,SysBx,2,1
+2015-12-09,ZGT-4M,,M436,M436,SIEMENS,Skyra,1400,,,59,0.1552631578947369,5.9,38.0,SysBx+MRBx,"5,2","5,0"
+2016-01-27,ZGT-4M,,M467,M467,SIEMENS,Skyra,1400,,,69,0.1651162790697674,7.1,43.0,SysBx,2,0
+2016-02-10,ZGT-4M,,M471,M471,SIEMENS,Skyra,1400,,,71,0.05583333333333333,6.7,120.0,SysBx,2,0
+2016-02-10,ZGT-4M,,M473,M473,SIEMENS,Skyra,1400,,,66,0.1117647058823529,5.7,51.0,SysBx,2,0
+2016-02-17,ZGT-4M,,M478,M478,SIEMENS,Skyra,1400,,,68,0.1846153846153846,12.0,65.0,SysBx+MRBx+RP,"5,5","1,2"
+2016-04-20,ZGT-4M,,M614,M614,SIEMENS,Skyra,1400,,,62,0.218,10.9,50.0,SysBx+MRBx+RP,"4,2","2,0"
+2016-05-04,ZGT-4M,,M627,M627,SIEMENS,Skyra,1400,,,59,0.078,3.9,50.0,SysBx,2,0
+2016-06-08,ZGT-4M,,M639,M639,SIEMENS,Skyra,1400,,,64,0.07422680412371134,7.2,97.0,SysBx,"2,2","0,0"
+2016-07-06,ZGT-4M,,M651,M651,SIEMENS,Skyra,1400,,,75,0.4666666666666667,14.0,30.0,SysBx+MRBx,4,1
+2016-05-04,ZGT-4M,,M658,M658,SIEMENS,Skyra,1400,,,66,0.2,5.0,25.0,SysBx,"2,2","0,0"
+2016-05-04,ZGT-4M,,M659,M659,SIEMENS,Skyra,1400,,,53,0.09135802469135802,7.4,81.0,SysBx+MRBx+RP,4,1
+2016-07-27,ZGT-4M,,M665,M665,SIEMENS,Skyra,1400,,,57,0.16875,8.1,48.0,SysBx,2,0
+2016-08-24,ZGT-4M,,M688,M688,SIEMENS,Skyra,1400,,,70,0.1573033707865168,14.0,89.0,SysBx+MRBx,5,5
+2016-10-26,ZGT-4M,,M819,M819,SIEMENS,Skyra,1400,,,62,0.1063829787234043,5.0,47.0,SysBx+MRBx+RP,5,1
+2016-11-02,ZGT-4M,,M825,M825,SIEMENS,Skyra,1400,,,73,0.2024390243902439,8.3,41.0,SysBx+MRBx,5,3
+2016-11-23,ZGT-4M,,M835,M835,SIEMENS,Skyra,1400,,,57,0.2363636363636364,7.8,33.0,SysBx,2,0
+2016-12-14,ZGT-4M,,M845,M845,SIEMENS,Skyra,1400,,,75,0.4411764705882353,15.0,34.0,SysBx+MRBx,5,5
+2016-12-28,ZGT-4M,,M852,M852,SIEMENS,Skyra,1400,,,71,0.3488372093023256,15.0,43.0,SysBx+MRBx,"5,3","2,0"
+2017-01-11,ZGT-4M,,M865,M865,SIEMENS,Skyra,1400,,,61,0.1870967741935484,5.8,31.0,SysBx+MRBx,5,1
