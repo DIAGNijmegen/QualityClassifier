@@ -85,7 +85,7 @@ class UniversalClassifierPreprocessor(GenericPreprocessor):
         with open(os.path.join(output_folder_stage, f"{case_identifier}.pkl"), 'wb') as f:
             pickle.dump(properties, f)
 
-    def preprocess_test_case(self, data_files, seg_file=None, force_separate_z=None):
+    def preprocess_test_case(self, data_files, target_spacing, target_size, seg_file=None, force_separate_z=None):
         """
         Preprocesses a single test case with fixed spacing and size.
 
@@ -107,13 +107,11 @@ class UniversalClassifierPreprocessor(GenericPreprocessor):
         seg = seg.transpose((0, *[i + 1 for i in self.transpose_forward]))
 
         # Resample and normalize the data to the fixed target spacing
-        target_spacing = self.fixed_spacing
-        data, seg, properties = resample_and_normalize(
+        data, seg, properties = self.resample_and_normalize(
             data, target_spacing, properties, seg, force_separate_z
         )
 
         # Apply central padding to match the fixed target size
-        target_size = self.fixed_size
         data, seg, properties = central_pad(data, target_size, properties, seg)
 
         return data.astype(np.float32), seg, properties

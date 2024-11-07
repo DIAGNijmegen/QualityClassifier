@@ -28,12 +28,20 @@ def predict(args):
     overwrite_existing = args.overwrite_existing
     model = args.model
     trainer_class_name = args.trainer_class_name
-
+    folders_format = args.folders_format
     task_name = args.task_name
+
 
     if not task_name.startswith("Task"):
         task_id = int(task_name)
         task_name = convert_id_to_task_name(task_id)
+
+    if 'DWI' in task_name:
+        modality = 'DWI'
+    elif 'T2W' in task_name:
+        modality = 'T2W'
+    else:
+        print('No modality found in Task Name')
 
     assert model in ["3d_fullres"], "-m must be 3d_fullres"
 
@@ -63,6 +71,5 @@ def predict(args):
               "training was done with segmentation masks, I will run inference, but fail silently, producing "
               "poor results.\n")  #Todo make it not fail silently
 
-    predict_from_folder(model_folder_name, input_folder, seg_folder, output_folder, folds,
-                        mixed_precision=not args.disable_mixed_precision, overwrite_existing=overwrite_existing,
-                        checkpoint_name=args.chk)
+    predict_from_folder(model_folder_name, input_folder, output_folder, folds,
+                        not args.disable_mixed_precision, overwrite_existing, args.chk, folders_format, modality)

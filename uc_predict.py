@@ -30,6 +30,16 @@ def main():
     parser.add_argument('-f', '--folds', nargs='+', default='None',
                         help="folds to use for prediction. Default is None which means that folds will be detected "
                              "automatically in the model output folder")
+    parser.add_argument(
+        '--folders_format',
+        required=False,
+        default=True,
+        help="Set to True if the data is organized in folders as follows: 'data/<patient_folder>/' with individual scans "
+             "for each patient stored in .mha files (e.g., '_adc.mha', '_hbv.mha', '_dwi.mha', '_t2w.mha'). "
+             "The script will automatically search for '_hbv.mha' if the task name contains 'DWI' or '_t2w.mha' "
+             "if the task name contains 'T2W'. If set to False, the data folder should directly contain the .nii.gz files "
+             "for each sequence, pre-prepared for inference without additional folder organization."
+    )
     parser.add_argument("--disable_tta", required=False, default=False, action="store_true",
                         help="set this flag to disable test time data augmentation via mirroring. Speeds up inference "
                              "by roughly factor 4 (2D) or 8 (3D)")
